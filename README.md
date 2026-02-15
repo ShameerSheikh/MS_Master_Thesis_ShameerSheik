@@ -18,6 +18,8 @@
 - from sklearn.cluster import MiniBatchKMeans
 - from sklearn.metrics import silhouette_score
 
+# Google drive link for the used datasets and outputs
+https://drive.google.com/drive/folders/1YLt-4FX9sZSsGixI4y86PTGpRVLB6jcM?usp=sharing
 
 
 # Overview:
