@@ -7,7 +7,7 @@ This research presents a comprehensive investigation into the development of a c
 
 The system aims to recommend tailored career, job, and business opportunities to a diverse user base including working professionals, students, retirees, and athletes based on their individual interests, educational qualifications, and risk profiles. 
 
-Key components of the CGGA framework include 
+Key components of the CGGA (Causal Guided Generative Alignment) framework include 
 1. Domain-Specific Causal Graph Construction, 
 2. Variational Generative Modelling, 
 3. Adaptive Few-Shot Learning and 
@@ -48,18 +48,67 @@ By integrating causal reasoning with generative modelling and adaptive learning,
 # Google drive link for the used datasets and outputs
 https://drive.google.com/drive/folders/1YLt-4FX9sZSsGixI4y86PTGpRVLB6jcM?usp=sharing
 
-
 # CGGA Implementation:
 Basic Steps included here as listed below
 
 - STAGE 0 — DATA PRE-PROCESSING
 - STAGE 1 — Load & Preprocess User + Job Datasets
 - STAGE 2 — Embedding Generation (User + Job)
+  - Purpose: Convert user profiles and job descriptions into dense numerical vectors that capture semantic meaning.
+  - Implementation:
+    - Model used: all-mpnet-base-v2 (768‑dimensional embeddings)
+    - user_text = concatenation of skills, degree, experience, summary
+    - job_text = concatenation of job title, job summary, job skills
+    - Embeddings stored as NumPy arrays for fast computation
+    - Normalisation applied before similarity scoring
+ 
 - STAGE 3 — Job Clustering
+  - Purpose: Group jobs into semantically coherent clusters to support few‑shot learning and prototype creation.
+  - Implementation:
+    - Clustering performed on VAE latent vectors or SentenceTransformer embeddings
+    - K chosen empirically (e.g., 20–50 clusters)
+    - Cluster prototypes later used in few‑shot adaptation
+    - Helps handle sparse job categories
+ 
 - STAGE 4 — Causal Graph Construction
+  - Purpose: Encode domain‑informed relationships between skills, degrees, industries, and job roles.
+  - Implementation:
+    - Implemented using NetworkX
+    - Nodes represent domain attributes
+    - Edges represent directional influence (e.g., degree → role)
+    - Causal score normalised to [0,1]
+    - Used as a component in multi‑objective scoring
+ 
 - STAGE 5 — Variational Generative Alignment (VAE / CVAE)
+  - Purpose: Learn a smooth latent representation of job embeddings to improve generalisation and diversity.
+  - Implementation:
+    - Implemented in PyTorch
+    - Input: 768‑dimensional job embeddings
+    - Latent dimension: 32
+    - Optimiser: Adam
+    - Reconstruction loss: MSE
+    - KL term ensures smooth latent space
+    - Latent vectors used for clustering + few‑shot learning
+ 
 - STAGE 6 — Adaptive Few‑Shot Learning
+  - Purpose: Handle sparse job categories and cold‑start scenarios using prototype‑based adaptation.
+  - Implementation:
+    - No MAML or meta‑learning used
+    - Purely prototype‑based
+    - Latent vectors from VAE used
+    - Helps when job categories have few examples
+    - Supports cross‑domain transitions
+ 
 - STAGE 7 — Multi‑Objective Scoring + Recommendation Engine
+  - Purpose: Combine semantic, causal, and few‑shot signals into a unified ranking score
+ 
+  - Implementation:
+    - α, β, γ tuned empirically
+    - Semantic similarity = cosine similarity
+    - Causal score = graph‑based alignment
+    - Few‑shot score = prototype distance
+    - Top‑K recommendations returned
+ 
 - STAGE 8 — EVALUATION
 
 
@@ -85,6 +134,31 @@ If you feed embeddings with everything, you dilute the signal and degrade cluste
 Only semantically meaningful fields were included in the embedding pipeline. 
 Metadata fields such as dates, URLs, institution names, and locations were excluded to prevent noise injection and maintain embedding purity. 
 The unified text representation ensures consistent semantic density and improves clustering stability.
+
+# EVALUATION METRICS
+Below are the Metrics computed on the Recommendation Model Output
+
+- Precision@5: Measures how many of the top‑5 recommended items are actually relevant. Higher Precision@5 means the system returns fewer irrelevant recommendations.
+  -   Precision@5 = (Number of relevant items in top 5) / 5
+ 
+- Recall@5: Measures how many of the relevant items were successfully retrieved in the top‑5 list. Higher Recall@5 means the system captures more of the user‑relevant opportunities.
+  - Recall@5 = (Number of relevant items in top 5) / (Total number of relevant items)
+  
+- HitRate@5: Indicates whether at least one relevant item appears in the top‑5 recommendations. A binary success measure aggregated across users.
+  - HitRate@5 = 1 if at least one relevant item appears in top 5, else 0,
+  for all users:
+  - HitRate@5 = (Sum of Hit@5 over all users) / (Total number of users)
+  
+- MRR@5 (Mean Reciprocal Rank): Evaluates how early the first relevant recommendation appears in the ranking. Higher MRR@5 means relevant items appear closer to the top.
+  - MRR@5 = (1 / Number of users) * Σ (1 / rank of first relevant item). If no relevant item appears in top 5 → contribution = 0.
+  
+- NDCG@5 (Normalized Discounted Cumulative Gain): Measures ranking quality by rewarding relevant items that appear higher in the top‑5 list. Captures both relevance and position.
+  - NDCG@5 = DCG@5 / IDCG@5
+  
+- ILD@5 (Intra List Diversity): Measures how diverse the top‑5 recommendations are (e.g., different industries, roles, or skill clusters). Higher ILD@5 means less redundancy and broader opportunity exposure.
+  - ILD@5 = (2 / (5 * (5 - 1))) * Σ distance(i, j) for all pairs in top 5.
+  Where distance(i, j) = dissimilarity between items i and j (e.g., cosine distance or category difference)
+
 
 # RESULTS
 Model was evaluated on 100 users × full job catalog, with Top‑5 recommendations per user. Overall, the system is diverse, moderately accurate, and capable of ranking relevant jobs early, but precision and recall are naturally low due to the synthetic full‑matrix ground truth.
@@ -123,7 +197,7 @@ In real‑world job recommendation scenarios, diversity is crucial for user sati
 - No extreme variance or collapse.
 
 
-# Weaknesses / Future Work:
+# Weaknesses:
 
 1. Precision and recall remain low
 - Your ground truth is synthetic and dense (every user has relevance labels for all jobs).
@@ -142,6 +216,26 @@ This is not a model failure. it is a dataset property.
 4. No Personalization History
 - No past interactions → model relies only on embeddings.
 - Limits personalization depth.
+
+# Future Work
+
+Although the dissertation title includes business opportunity discovery, this component is intentionally deferred. Future work includes:
+- Business Opportunity Discovery
+•	Extending CGGA to model causal relationships between users and business opportunities
+•	Integrating market signals, entrepreneurial attributes, and domain specific causal factors
+- Improving Relevance Modeling
+•	Incorporating richer causal features (experience level, domain transitions, seniority)
+•	Using contrastive learning to refine embeddings
+•	Integrating LLM based semantic augmentation for job descriptions
+- Improving Precision and Recall
+•	Adding a learning to rank model on top of CGGA
+•	Using pairwise ranking loss or listwise loss
+•	Incorporating feedback loops (implicit or explicit user signals)
+•	Using hybrid causal + neural reranking
+•	Expanding the evaluation dataset to 100–500 users for stability
+- Fairness and Bias Mitigation
+•	Ensuring causal fairness constraints
+•	Evaluating demographic parity and equal opportunity metrics
 
 
 # CONCLUSION:
