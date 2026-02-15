@@ -240,7 +240,7 @@ Although the dissertation title includes business opportunity discovery, this co
 
 # CONCLUSION:
 
-Overall, thisHybrid‑CGGA recommender demonstrates:
+Overall, this Hybrid‑CGGA recommender demonstrates:
 - Strong diversity
 - Meaningful ranking quality
 - Cross‑domain exploration capability
