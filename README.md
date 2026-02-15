@@ -1,6 +1,25 @@
 # MS_Master_Thesis_ShameerSheik
 # A CROSS-DOMAIN RECOMMENDATION SYSTEM FOR ENHANCING JOBS, BUSINESS OPPORTUNITY DISCOVERY 
 
+# Tools used
+- Visual Studio Code Editor
+- Interpreter: Python 3.11.9
+- Executed in Virtual Environment of name: cgga_env
+
+# Python libraries used
+- import os
+- import numpy as np
+- import pandas as pd
+- import time
+- import torch
+- import random
+- from sentence_transformers import SentenceTransformer
+- from tqdm import tqdm
+- from sklearn.cluster import MiniBatchKMeans
+- from sklearn.metrics import silhouette_score
+
+
+
 # Overview:
 
 This research presents a comprehensive investigation into the development of a cross-domain recommendation system designed to function as a personalized user assistant on job/business opportunities. 
@@ -35,16 +54,13 @@ STAGE 8 — EVALUATION
 
 
 # Datasets Chosen from Kaggle Sources:
-
-User Profile data: Resume Dataset, 
+- User Profile data: Resume Dataset, 
 https://www.kaggle.com/datasets/saugataroyarghya/resume-dataset
 
-
-Job Posting data: 1.3M Linkedin Jobs & Skills (2024), 
+- Job Posting data: 1.3M Linkedin Jobs & Skills (2024), 
 https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024 
 
-Mapping file: companies_sorted.csv
-
+- Mapping file: companies_sorted.csv
 Kaggle dataset for company to industry mapping
 https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset
 
@@ -63,18 +79,12 @@ The unified text representation ensures consistent semantic density and improves
 # RESULTS
 Model was evaluated on 100 users × full job catalog, with Top‑5 recommendations per user. Overall, the system is diverse, moderately accurate, and capable of ranking relevant jobs early, but precision and recall are naturally low due to the synthetic full‑matrix ground truth.
 
-
-A Precision@5 of 0.038 suggests that, on average, one out of the top‑five recommended jobs aligns with the user’s few‑shot relevance profile. 
-
-This is consistent with the Recall@5 score of 0.038, given that both the predicted and ground‑truth lists are limited to five items per user.
-
-The HitRate@5 of 0.14 demonstrates that the system successfully retrieves at least one relevant job for 14% of users. Reasonable for a cold‑start, cross‑domain system.
-
-Ranking quality is further supported by an MRR@5 of 0.107, indicating that when the system does retrieve a relevant job, it tends to appear near the top of the recommendation list.
-
-The NDCG@5 score of 0.0785 reinforces this observation, shows the model orders relevant jobs reasonably well.
-
-One of the strongest outcomes is the ILD@5 score of 0.508, which reflects a healthy level of diversity among recommended jobs. This suggests that the reranking mechanism is not overly biased toward a single job cluster or embedding neighborhood, and instead provides users with a varied set of opportunities. 
+- A Precision@5 of 0.038 suggests that, on average, one out of the top‑five recommended jobs aligns with the user’s few‑shot relevance profile. 
+- This is consistent with the Recall@5 score of 0.038, given that both the predicted and ground‑truth lists are limited to five items per user.
+- The HitRate@5 of 0.14 demonstrates that the system successfully retrieves at least one relevant job for 14% of users. Reasonable for a cold‑start, cross‑domain system.
+- Ranking quality is further supported by an MRR@5 of 0.107, indicating that when the system does retrieve a relevant job, it tends to appear near the top of the recommendation list.
+- The NDCG@5 score of 0.0785 reinforces this observation, shows the model orders relevant jobs reasonably well.
+- One of the strongest outcomes is the ILD@5 score of 0.508, which reflects a healthy level of diversity among recommended jobs. This suggests that the reranking mechanism is not overly biased toward a single job cluster or embedding neighborhood, and instead provides users with a varied set of opportunities. 
 
 In real‑world job recommendation scenarios, diversity is crucial for user satisfaction, exploration, and fairness.
 
