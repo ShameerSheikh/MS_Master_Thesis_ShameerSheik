@@ -176,70 +176,71 @@ In real‑world job recommendation scenarios, diversity is crucial for user sati
 # Strengths of the CGGA Framework:
 
 1. High Diversity (ILD@5 ≈ 0.51)
-- Your recommendations span multiple job types.
-- This supports your opportunity discovery and cross‑domain exploration claims.
-- High ILD is a strong indicator that Hybrid‑CGGA is not stuck in narrow clusters.
+  - Your recommendations span multiple job types.
+  - This supports your opportunity discovery and cross‑domain exploration claims.
+  - High ILD is a strong indicator that Hybrid‑CGGA is not stuck in narrow clusters.
 
 2. Good Ranking Quality (MRR & NDCG)
-- MRR@5 = 0.107 and NDCG@5 = 0.0785 show:
-- Relevant jobs appear early in the Top‑5.
-- The ranking function is meaningful.
-- This is impressive given the huge candidate space (14k+ jobs).
+  - MRR@5 = 0.107 and NDCG@5 = 0.0785 show:
+  - Relevant jobs appear early in the Top‑5.
+  - The ranking function is meaningful.
+  - This is impressive given the huge candidate space (14k+ jobs).
 
 3. Strong Cross‑Domain Potential
-- High ILD + upcoming DJR metric will show:
-- The system is capable of recommending outside the user’s domain.
-- Supports your thesis claim of cross‑domain job discovery.
+  - High ILD + upcoming DJR metric will show:
+  - The system is capable of recommending outside the user’s domain.
+  - Supports your thesis claim of cross‑domain job discovery.
 
 4. Stable Behavior Across Users
-- Hit Rate@5 = 0.14 indicates:
-- The model consistently finds at least one relevant job for many users.
-- No extreme variance or collapse.
+  - Hit Rate@5 = 0.14 indicates:
+  - The model consistently finds at least one relevant job for many users.
+  - No extreme variance or collapse.
 
 
 # Weaknesses:
 
 1. Precision and recall remain low
-- Your ground truth is synthetic and dense (every user has relevance labels for all jobs).
-- The candidate space is extremely large (14k+ jobs).
-- Top‑5 is a very small window.
+  - Ground truth is synthetic and dense (every user has relevance labels for all jobs).
+  - The candidate space is extremely large (14k+ jobs).
+  - Top‑5 is a very small window.
 This is not a model failure. it is a dataset property.
 
 2. Popularity Bias Cannot Be Measured
-- All jobs appear exactly 100 times in ground truth.
-- Popularity is uniform → no variance → no popularity metrics possible.
+  - All jobs appear exactly 100 times in ground truth.
+  - Popularity is uniform → no variance → no popularity metrics possible.
 
 3. Synthetic Ground Truth Limits Realism
-- Relevance labels are not based on real user behavior.
-- Precision/recall cannot reach high values in such a setting.
+  - Relevance labels are not based on real user behavior.
+  - Precision/recall cannot reach high values in such a setting.
 
 4. No Personalization History
-- No past interactions → model relies only on embeddings.
-- Limits personalization depth.
+  - No past interactions → model relies only on embeddings.
+  - Limits personalization depth.
 
 # Future Work
 
 Although the dissertation title includes business opportunity discovery, this component is intentionally deferred. Future work includes:
 - Business Opportunity Discovery
-•	Extending CGGA to model causal relationships between users and business opportunities
-•	Integrating market signals, entrepreneurial attributes, and domain specific causal factors
-- Improving Relevance Modeling
-•	Incorporating richer causal features (experience level, domain transitions, seniority)
-•	Using contrastive learning to refine embeddings
-•	Integrating LLM based semantic augmentation for job descriptions
-- Improving Precision and Recall
-•	Adding a learning to rank model on top of CGGA
-•	Using pairwise ranking loss or listwise loss
-•	Incorporating feedback loops (implicit or explicit user signals)
-•	Using hybrid causal + neural reranking
-•	Expanding the evaluation dataset to 100–500 users for stability
-- Fairness and Bias Mitigation
-•	Ensuring causal fairness constraints
-•	Evaluating demographic parity and equal opportunity metrics
+  -	Extending CGGA to model causal relationships between users and business opportunities
+  -	Integrating market signals, entrepreneurial attributes, and domain specific causal factors
 
+- Improving Relevance Modeling
+  - Incorporating richer causal features (experience level, domain transitions, seniority)
+  - Using contrastive learning to refine embeddings
+  - Integrating LLM based semantic augmentation for job descriptions
+
+- Improving Precision and Recall
+  - Adding a learning to rank model on top of CGGA
+  - Using pairwise ranking loss or listwise loss
+  - Incorporating feedback loops (implicit or explicit user signals)
+  - Using hybrid causal + neural reranking
+  - Expanding the evaluation dataset to 100–500 users for stability
+
+- Fairness and Bias Mitigation
+  - Ensuring causal fairness constraints
+  - Evaluating demographic parity and equal opportunity metrics
 
 # CONCLUSION:
-
 Overall, this Hybrid‑CGGA recommender demonstrates:
 - Strong diversity
 - Meaningful ranking quality
