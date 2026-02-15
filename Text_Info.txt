@@ -1,0 +1,28 @@
+
+Drive link
+https://drive.google.com/drive/folders/1YLt-4FX9sZSsGixI4y86PTGpRVLB6jcM?usp=sharing
+
+https://drive.google.com/drive/folders/1YLt-4FX9sZSsGixI4y86PTGpRVLB6jcM?usp=drive_link
+
+Drive link for Video
+https://drive.google.com/file/d/1j5VLAeHZvQ6pGYpFXUrloVy9JwRNUDrB/view?usp=drive_link
+
+
+User Profile data: resume_data.csv
+Source: Kaggle
+URL: https://www.kaggle.com/datasets/saugataroyarghya/resume-dataset
+
+Job Posting data: 1.3M Linkedin Jobs & Skills (2024), 
+Source: Kaggle
+URL: https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024
+ 
+This dataset provides large‑scale job opportunity information across multiple industries. It consists of three linked files:
+linkedin_job_postings.csv containing job titles, companies, locations, job levels, and job types
+job_skills.csv listing required skills for each job
+job_summary.csv providing textual job descriptions
+These files collectively form the opportunity space used for representation learning, embedding generation, and recommendation evaluation.
+
+
+Industry-Company Mapping file: companies_sorted.csv
+Source: Kaggle
+URL: https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset
