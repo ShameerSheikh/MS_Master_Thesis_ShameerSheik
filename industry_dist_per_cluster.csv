@@ -1,0 +1,1932 @@
+cluster_id,industry_final,count
+0,Healthcare & Social Assistance,1854
+0,Medical Value Travel,77
+0,Unknown,269
+0,accounting,11
+0,banking,31
+0,computer software,8
+0,construction,40
+0,education management,79
+0,facilities services,12
+0,government administration,188
+0,"health, wellness and fitness",153
+0,higher education,242
+0,hospital & health care,3002
+0,individual & family services,28
+0,industrial automation,19
+0,information technology and services,106
+0,internet,16
+0,legal services,16
+0,management consulting,28
+0,marketing and advertising,147
+0,medical practice,204
+0,mental health care,87
+0,non-profit organization management,130
+0,photography,33
+0,primary/secondary education,6
+0,religious institutions,9
+0,staffing and recruiting,1895
+0,wholesale,14
+1,Accounting & Finance Services,13
+1,Biotechnology,97
+1,Capital Goods & Industrial Machinery,107
+1,Chemicals & Petrochemicals,23
+1,Energy & Power Generation,13
+1,Environmental Services,140
+1,Food Processing,60
+1,Gems & Jewellery,17
+1,Healthcare & Social Assistance,152
+1,Information Technology Enabled Services (ITeS),137
+1,Leather & Footwear,31
+1,Professional Services & Consulting,17
+1,Retail & E-commerce,72
+1,Shipping & Marine Engineering,34
+1,Tourism & Hospitality,141
+1,Transport & Logistics Services,1403
+1,Unknown,562
+1,accounting,94
+1,airlines/aviation,138
+1,automotive,282
+1,aviation & aerospace,107
+1,banking,16
+1,biotechnology,147
+1,broadcast media,23
+1,building materials,188
+1,business supplies and equipment,56
+1,chemicals,104
+1,civil engineering,29
+1,computer & network security,33
+1,computer hardware,22
+1,computer networking,20
+1,computer software,168
+1,construction,410
+1,consumer goods,127
+1,consumer services,23
+1,defense & space,100
+1,design,36
+1,e-learning,31
+1,education management,54
+1,electrical/electronic manufacturing,166
+1,entertainment,191
+1,environmental services,138
+1,facilities services,114
+1,farming,61
+1,financial services,122
+1,food & beverages,158
+1,food production,194
+1,gambling & casinos,49
+1,government administration,218
+1,"health, wellness and fitness",81
+1,higher education,113
+1,hospital & health care,154
+1,hospitality,228
+1,human resources,67
+1,industrial automation,37
+1,information technology and services,259
+1,internet,53
+1,judiciary,18
+1,law practice,24
+1,legal services,35
+1,"leisure, travel & tourism",37
+1,logistics and supply chain,192
+1,machinery,130
+1,management consulting,247
+1,marketing and advertising,195
+1,mechanical or industrial engineering,143
+1,medical devices,48
+1,medical practice,59
+1,mental health care,16
+1,military,42
+1,mining & metals,104
+1,museums and institutions,60
+1,non-profit organization management,83
+1,nonprofit organization management,17
+1,oil & energy,72
+1,packaging and containers,126
+1,pharmaceuticals,114
+1,plastics,41
+1,primary/secondary education,24
+1,publishing,8
+1,religious institutions,18
+1,renewables & environment,75
+1,restaurants,11
+1,retail,225
+1,security and investigations,16
+1,semiconductors,29
+1,staffing and recruiting,519
+1,supermarkets,69
+1,telecommunications,87
+1,transportation/trucking/railroad,364
+1,utilities,211
+1,venture capital & private equity,36
+1,warehousing,192
+1,wholesale,69
+1,writing and editing,21
+2,Healthcare & Social Assistance,658
+2,Medical Value Travel,2169
+2,Unknown,320
+2,civil engineering,19
+2,"health, wellness and fitness",183
+2,hospital & health care,1121
+2,information technology and services,13
+2,management consulting,33
+2,medical devices,440
+2,staffing and recruiting,1619
+2,wholesale,15
+3,Environmental Services,23
+3,Professional Services & Consulting,251
+3,Real Estate & Property Management,170
+3,Tourism & Hospitality,16
+3,Transport & Logistics Services,32
+3,Unknown,117
+3,banking,25
+3,civic & social organization,27
+3,civil engineering,39
+3,commercial real estate,48
+3,computer networking,12
+3,construction,34
+3,electrical/electronic manufacturing,41
+3,environmental services,86
+3,executive office,12
+3,financial services,18
+3,government administration,19
+3,hospital & health care,12
+3,hospitality,57
+3,human resources,6
+3,individual & family services,49
+3,information technology and services,62
+3,insurance,9
+3,management consulting,13
+3,marketing and advertising,32
+3,motion pictures and film,10
+3,non-profit organization management,73
+3,paper & forest products,13
+3,printing,59
+3,real estate,1525
+3,sports,22
+3,staffing and recruiting,159
+4,Healthcare & Social Assistance,225
+4,Legal Services,29
+4,Medical Value Travel,13
+4,Professional Services & Consulting,36
+4,Unknown,1141
+4,civic & social organization,74
+4,construction,61
+4,consumer services,93
+4,government administration,18
+4,"health, wellness and fitness",78
+4,higher education,77
+4,hospital & health care,1099
+4,individual & family services,65
+4,information technology and services,39
+4,international affairs,29
+4,internet,23
+4,medical practice,78
+4,mental health care,755
+4,military,38
+4,non-profit organization management,222
+4,professional training & coaching,18
+4,research,32
+4,staffing and recruiting,67
+4,textiles,2526
+5,Cybersecurity,8
+5,Environmental Services,167
+5,Healthcare & Social Assistance,159
+5,Information Technology Enabled Services (ITeS),90
+5,Legal Services,11
+5,Medical Value Travel,11
+5,Professional Services & Consulting,88
+5,Railways & Transportation Engineering,21
+5,Retail & E-commerce,75
+5,Shipping & Marine Engineering,22
+5,Tourism & Hospitality,31
+5,Transport & Logistics Services,112
+5,Unknown,750
+5,accounting,45
+5,architecture & planning,5
+5,automotive,66
+5,building materials,15
+5,civic & social organization,17
+5,civil engineering,33
+5,computer networking,10
+5,computer software,13
+5,construction,110
+5,design,24
+5,education management,76
+5,entertainment,33
+5,environmental services,22
+5,events services,11
+5,executive office,19
+5,facilities services,22
+5,financial services,65
+5,government administration,111
+5,government relations,42
+5,graphic design,10
+5,higher education,18
+5,hospital & health care,111
+5,hospitality,48
+5,human resources,110
+5,individual & family services,44
+5,information technology and services,135
+5,insurance,21
+5,investment management,66
+5,legal services,45
+5,"leisure, travel & tourism",66
+5,logistics and supply chain,32
+5,machinery,32
+5,management consulting,73
+5,marketing and advertising,50
+5,non-profit organization management,13
+5,oil & energy,10
+5,professional training & coaching,34
+5,public relations and communications,10
+5,publishing,8
+5,real estate,95
+5,research,51
+5,restaurants,7
+5,sports,7
+5,staffing and recruiting,863
+5,textiles,39
+5,transportation/trucking/railroad,28
+5,utilities,28
+5,veterinary,17
+6,Retail & E-commerce,98
+6,Unknown,64
+6,civil engineering,58
+6,consumer goods,85
+6,"leisure, travel & tourism",14
+6,telecommunications,1249
+6,wireless,117
+7,Healthcare & Social Assistance,1709
+7,Medical Value Travel,503
+7,Unknown,603
+7,education management,34
+7,financial services,15
+7,government administration,82
+7,"health, wellness and fitness",324
+7,hospital & health care,669
+7,information technology and services,1
+7,market research,7
+7,marketing and advertising,94
+7,medical devices,38
+7,restaurants,29
+7,staffing and recruiting,1640
+7,transportation/trucking/railroad,27
+8,Healthcare & Social Assistance,2099
+8,Medical Value Travel,21
+8,Unknown,851
+8,accounting,27
+8,automotive,30
+8,civil engineering,773
+8,computer software,199
+8,consumer services,140
+8,education management,42
+8,"health, wellness and fitness",330
+8,higher education,260
+8,hospital & health care,4082
+8,information technology and services,42
+8,internet,19
+8,marketing and advertising,15
+8,medical practice,264
+8,military,93
+8,motion pictures and film,10
+8,non-profit organization management,98
+8,research,22
+8,restaurants,12
+8,staffing and recruiting,280
+8,textiles,24
+8,wholesale,34
+9,Accounting & Finance Services,103
+9,Data Science & Analytics,246
+9,Education Services,13
+9,IT Services & Software Development,335
+9,Information Technology Enabled Services (ITeS),531
+9,Legal Services,66
+9,Professional Services & Consulting,190
+9,Transport & Logistics Services,36
+9,Unknown,49
+9,accounting,82
+9,airlines/aviation,17
+9,apparel & fashion,33
+9,automotive,70
+9,aviation & aerospace,16
+9,banking,62
+9,biotechnology,21
+9,broadcast media,28
+9,building materials,89
+9,business supplies and equipment,27
+9,capital markets,15
+9,chemicals,38
+9,civic & social organization,31
+9,civil engineering,29
+9,computer networking,58
+9,computer software,301
+9,construction,110
+9,consumer services,15
+9,defense & space,42
+9,design,9
+9,education management,155
+9,electrical/electronic manufacturing,14
+9,entertainment,37
+9,environmental services,21
+9,financial services,650
+9,food production,17
+9,government administration,111
+9,graphic design,40
+9,higher education,89
+9,hospital & health care,244
+9,hospitality,16
+9,human resources,147
+9,industrial automation,54
+9,information technology and services,810
+9,insurance,191
+9,internet,152
+9,investment banking,37
+9,"leisure, travel & tourism",58
+9,management consulting,159
+9,market research,60
+9,marketing and advertising,179
+9,medical devices,36
+9,mental health care,24
+9,mining & metals,38
+9,oil & energy,68
+9,package/freight delivery,39
+9,paper & forest products,30
+9,pharmaceuticals,90
+9,photography,17
+9,program development,16
+9,real estate,39
+9,retail,183
+9,semiconductors,18
+9,sports,40
+9,staffing and recruiting,406
+9,telecommunications,45
+9,textiles,9
+9,transportation/trucking/railroad,37
+9,utilities,15
+9,warehousing,18
+9,wholesale,97
+10,Healthcare & Social Assistance,1081
+10,Unknown,1132
+10,accounting,83
+10,commercial real estate,9
+10,computer software,119
+10,consumer services,31
+10,education management,99
+10,facilities services,14
+10,"health, wellness and fitness",249
+10,higher education,360
+10,hospital & health care,3058
+10,human resources,136
+10,information technology and services,45
+10,internet,47
+10,mechanical or industrial engineering,14
+10,medical practice,95
+10,public safety,18
+10,religious institutions,54
+10,restaurants,52
+10,staffing and recruiting,254
+10,telecommunications,17
+10,textiles,320
+10,veterinary,18
+10,wholesale,5
+11,Healthcare & Social Assistance,2527
+11,Medical Value Travel,79
+11,Unknown,88
+11,architecture & planning,17
+11,automotive,61
+11,biotechnology,19
+11,civic & social organization,32
+11,computer software,94
+11,construction,169
+11,education management,39
+11,events services,21
+11,"health, wellness and fitness",146
+11,higher education,87
+11,hospital & health care,4026
+11,human resources,19
+11,information services,22
+11,information technology and services,28
+11,internet,62
+11,legal services,16
+11,marketing and advertising,62
+11,mechanical or industrial engineering,71
+11,medical devices,87
+11,medical practice,413
+11,non-profit organization management,68
+11,religious institutions,8
+11,research,162
+11,retail,156
+11,staffing and recruiting,2024
+11,textiles,13
+11,veterinary,26
+12,Healthcare & Social Assistance,290
+12,hospital & health care,486
+12,military,13
+12,staffing and recruiting,2262
+13,Healthcare & Social Assistance,2647
+13,Medical Value Travel,99
+13,Unknown,771
+13,biotechnology,27
+13,civil engineering,232
+13,computer software,74
+13,consumer services,17
+13,education management,149
+13,government administration,9
+13,"health, wellness and fitness",154
+13,higher education,468
+13,hospital & health care,3978
+13,human resources,83
+13,information technology and services,149
+13,insurance,70
+13,internet,13
+13,legal services,60
+13,management consulting,36
+13,marketing and advertising,13
+13,medical practice,198
+13,pharmaceuticals,57
+13,retail,222
+13,staffing and recruiting,1151
+13,textiles,43
+13,veterinary,65
+13,wholesale,30
+13,writing and editing,51
+14,Cybersecurity,16
+14,Environmental Services,63
+14,Food Processing,19
+14,Gems & Jewellery,40
+14,Healthcare & Social Assistance,16
+14,Information Technology Enabled Services (ITeS),339
+14,Leather & Footwear,15
+14,"Marketing, Advertising & PR",121
+14,Medical Value Travel,15
+14,Professional Services & Consulting,140
+14,Real Estate & Property Management,34
+14,Retail & E-commerce,573
+14,Tourism & Hospitality,24
+14,Transport & Logistics Services,183
+14,Unknown,598
+14,airlines/aviation,28
+14,apparel & fashion,13
+14,architecture & planning,29
+14,automotive,432
+14,aviation & aerospace,61
+14,banking,42
+14,biotechnology,7
+14,building materials,112
+14,business supplies and equipment,68
+14,chemicals,52
+14,civil engineering,18
+14,computer & network security,75
+14,computer hardware,36
+14,computer software,212
+14,construction,218
+14,consumer goods,157
+14,consumer services,74
+14,dairy,16
+14,defense & space,22
+14,electrical/electronic manufacturing,136
+14,entertainment,47
+14,environmental services,15
+14,facilities services,23
+14,financial services,130
+14,food & beverages,46
+14,food production,15
+14,furniture,49
+14,gambling & casinos,26
+14,government administration,26
+14,"health, wellness and fitness",56
+14,hospital & health care,21
+14,hospitality,90
+14,human resources,82
+14,industrial automation,59
+14,information technology and services,160
+14,insurance,140
+14,internet,120
+14,investment management,22
+14,law practice,16
+14,legal services,21
+14,"leisure, travel & tourism",15
+14,logistics and supply chain,41
+14,luxury goods & jewelry,15
+14,management consulting,125
+14,marketing and advertising,86
+14,mechanical or industrial engineering,70
+14,medical devices,30
+14,mental health care,33
+14,mining & metals,24
+14,oil & energy,59
+14,performing arts,31
+14,pharmaceuticals,43
+14,printing,18
+14,professional training & coaching,36
+14,program development,13
+14,railroad manufacture,34
+14,real estate,72
+14,renewables & environment,18
+14,restaurants,31
+14,retail,408
+14,security and investigations,60
+14,sports,14
+14,staffing and recruiting,615
+14,telecommunications,67
+14,transportation/trucking/railroad,79
+14,venture capital & private equity,23
+14,warehousing,64
+14,wholesale,18
+14,wine and spirits,155
+15,Unknown,57
+15,hospital & health care,109
+15,mental health care,21
+15,textiles,1932
+16,Cybersecurity,33
+16,Healthcare & Social Assistance,102
+16,Medical Value Travel,26
+16,Unknown,903
+16,civic & social organization,49
+16,civil engineering,24
+16,education management,227
+16,financial services,10
+16,government administration,521
+16,graphic design,13
+16,higher education,135
+16,hospital & health care,181
+16,human resources,21
+16,individual & family services,426
+16,information technology and services,14
+16,internet,457
+16,law enforcement,48
+16,maritime,19
+16,mental health care,114
+16,museums and institutions,28
+16,non-profit organization management,1047
+16,nonprofit organization management,5
+16,oil & energy,61
+16,performing arts,48
+16,philanthropy,8
+16,public relations and communications,35
+16,recreational facilities and services,20
+16,religious institutions,21
+16,renewables & environment,18
+16,staffing and recruiting,90
+16,veterinary,11
+16,writing and editing,11
+17,Aerospace & Defense,118
+17,Automotive & Electric Vehicles,17
+17,Capital Goods & Industrial Machinery,160
+17,Construction & Civil Infrastructure,294
+17,Energy & Power Generation,71
+17,Environmental Services,259
+17,Gems & Jewellery,29
+17,IT Services & Software Development,61
+17,Materials & Metallurgical Engineering,10
+17,Real Estate & Property Management,136
+17,Retail & E-commerce,47
+17,Shipping & Marine Engineering,21
+17,Transport & Logistics Services,482
+17,Unknown,460
+17,accounting,47
+17,architecture & planning,120
+17,automotive,40
+17,aviation & aerospace,60
+17,biotechnology,27
+17,building materials,138
+17,business supplies and equipment,17
+17,chemicals,20
+17,civil engineering,495
+17,computer & network security,45
+17,computer software,32
+17,construction,824
+17,consumer goods,78
+17,defense & space,202
+17,design,246
+17,electrical/electronic manufacturing,79
+17,environmental services,112
+17,facilities services,64
+17,financial services,106
+17,government administration,50
+17,graphic design,30
+17,higher education,104
+17,hospital & health care,31
+17,human resources,76
+17,information technology and services,495
+17,internet,51
+17,investment management,29
+17,legal services,75
+17,management consulting,60
+17,maritime,11
+17,marketing and advertising,153
+17,mechanical or industrial engineering,129
+17,medical devices,78
+17,mining & metals,40
+17,motion pictures and film,37
+17,museums and institutions,22
+17,music,33
+17,non-profit organization management,19
+17,oil & energy,119
+17,outsourcing/offshoring,22
+17,packaging and containers,12
+17,photography,17
+17,real estate,21
+17,research,50
+17,retail,28
+17,semiconductors,13
+17,sports,61
+17,staffing and recruiting,1227
+17,textiles,14
+17,transportation/trucking/railroad,43
+17,utilities,29
+17,warehousing,18
+18,Fashion & Apparel,18
+18,Information Technology Enabled Services (ITeS),86
+18,Retail & E-commerce,1216
+18,Transport & Logistics Services,302
+18,Unknown,233
+18,accounting,45
+18,airlines/aviation,50
+18,apparel & fashion,459
+18,automotive,113
+18,broadcast media,23
+18,building materials,16
+18,business supplies and equipment,96
+18,chemicals,173
+18,consumer electronics,23
+18,consumer goods,155
+18,consumer services,35
+18,design,179
+18,facilities services,13
+18,financial services,114
+18,food & beverages,131
+18,food production,26
+18,furniture,23
+18,"health, wellness and fitness",19
+18,hospital & health care,78
+18,hospitality,64
+18,human resources,39
+18,import and export,52
+18,individual & family services,48
+18,information technology and services,11
+18,internet,15
+18,luxury goods & jewelry,316
+18,machinery,34
+18,management consulting,48
+18,marketing and advertising,197
+18,non-profit organization management,127
+18,oil & energy,32
+18,real estate,26
+18,religious institutions,16
+18,restaurants,131
+18,retail,3300
+18,staffing and recruiting,116
+18,supermarkets,41
+18,telecommunications,18
+18,transportation/trucking/railroad,7
+18,veterinary,11
+18,warehousing,57
+18,wholesale,39
+19,Accounting & Finance Services,27
+19,Education Services,4
+19,Healthcare & Social Assistance,555
+19,Legal Services,34
+19,Professional Services & Consulting,14
+19,Unknown,1777
+19,automotive,35
+19,construction,38
+19,consumer goods,12
+19,consumer services,16
+19,defense & space,112
+19,education management,95
+19,electrical/electronic manufacturing,64
+19,environmental services,22
+19,fund-raising,30
+19,government administration,672
+19,"health, wellness and fitness",322
+19,higher education,111
+19,hospital & health care,1741
+19,hospitality,31
+19,human resources,100
+19,individual & family services,638
+19,information technology and services,84
+19,internet,102
+19,law enforcement,100
+19,legal services,37
+19,market research,32
+19,marketing and advertising,39
+19,medical practice,117
+19,mental health care,1425
+19,non-profit organization management,899
+19,nonprofit organization management,56
+19,plastics,30
+19,primary/secondary education,31
+19,religious institutions,23
+19,restaurants,29
+19,retail,33
+19,staffing and recruiting,203
+19,textiles,30
+20,Accounting & Finance Services,645
+20,Education Services,12
+20,Environmental Services,688
+20,Financial Services & Fintech,133
+20,Information Technology Enabled Services (ITeS),133
+20,Legal Services,258
+20,Professional Services & Consulting,308
+20,Tourism & Hospitality,20
+20,Unknown,297
+20,accounting,117
+20,automotive,56
+20,banking,380
+20,building materials,16
+20,business supplies and equipment,20
+20,capital markets,20
+20,computer software,28
+20,construction,39
+20,consumer services,64
+20,defense & space,70
+20,design,19
+20,education management,18
+20,electrical/electronic manufacturing,73
+20,environmental services,33
+20,financial services,470
+20,food production,24
+20,government administration,68
+20,higher education,53
+20,hospital & health care,62
+20,human resources,221
+20,information technology and services,168
+20,insurance,518
+20,internet,22
+20,investment management,18
+20,law practice,10
+20,legal services,96
+20,"leisure, travel & tourism",114
+20,machinery,44
+20,management consulting,343
+20,maritime,14
+20,marketing and advertising,104
+20,mechanical or industrial engineering,21
+20,media production,32
+20,medical practice,47
+20,museums and institutions,19
+20,non-profit organization management,34
+20,outsourcing/offshoring,20
+20,plastics,30
+20,real estate,34
+20,renewables & environment,32
+20,retail,30
+20,sporting goods,36
+20,staffing and recruiting,539
+20,telecommunications,7
+20,textiles,11
+20,writing and editing,10
+21,Data Science & Analytics,14
+21,Education Services,223
+21,Retail & E-commerce,583
+21,Unknown,782
+21,building materials,26
+21,civic & social organization,26
+21,computer software,41
+21,consumer goods,27
+21,consumer services,17
+21,design,39
+21,e-learning,14
+21,education management,741
+21,government administration,33
+21,higher education,552
+21,hospital & health care,48
+21,hospitality,12
+21,internet,81
+21,legal services,13
+21,marketing and advertising,9
+21,museums and institutions,26
+21,non-profit organization management,89
+21,oil & energy,48
+21,primary/secondary education,174
+21,professional training & coaching,20
+21,retail,21
+21,sports,25
+21,staffing and recruiting,155
+21,writing and editing,16
+22,Healthcare & Social Assistance,261
+22,Unknown,1002
+22,hospital & health care,12
+23,Food Processing,292
+23,Healthcare & Social Assistance,38
+23,Information Technology Enabled Services (ITeS),31
+23,Retail & E-commerce,20
+23,Tourism & Hospitality,616
+23,Unknown,1393
+23,apparel & fashion,9
+23,consumer goods,58
+23,consumer services,29
+23,education management,49
+23,electrical/electronic manufacturing,10
+23,entertainment,153
+23,events services,34
+23,facilities services,17
+23,financial services,57
+23,food & beverages,467
+23,food production,51
+23,gambling & casinos,20
+23,"health, wellness and fitness",123
+23,higher education,48
+23,hospital & health care,108
+23,hospitality,438
+23,industrial automation,37
+23,information technology and services,35
+23,internet,17
+23,"leisure, travel & tourism",13
+23,luxury goods & jewelry,76
+23,management consulting,39
+23,maritime,15
+23,marketing and advertising,93
+23,non-profit organization management,13
+23,real estate,35
+23,renewables & environment,23
+23,restaurants,1624
+23,retail,217
+23,security and investigations,48
+23,staffing and recruiting,82
+23,supermarkets,67
+23,transportation/trucking/railroad,35
+23,wholesale,16
+24,Accounting & Finance Services,16
+24,Aerospace & Defense,11
+24,Artificial Intelligence & Machine Learning,12
+24,Biotechnology,16
+24,Capital Goods & Industrial Machinery,31
+24,Education Services,41
+24,Environmental Services,52
+24,Gems & Jewellery,23
+24,Healthcare & Social Assistance,92
+24,IT Services & Software Development,111
+24,Information Technology Enabled Services (ITeS),9
+24,Leather & Footwear,23
+24,Legal Services,60
+24,"Marketing, Advertising & PR",40
+24,Media & Entertainment,13
+24,Medical Value Travel,22
+24,Professional Services & Consulting,329
+24,Retail & E-commerce,82
+24,Transport & Logistics Services,65
+24,Unknown,1419
+24,airlines/aviation,12
+24,apparel & fashion,9
+24,automotive,101
+24,aviation & aerospace,35
+24,banking,50
+24,biotechnology,39
+24,business supplies and equipment,17
+24,civil engineering,41
+24,computer & network security,56
+24,computer hardware,23
+24,computer software,92
+24,construction,152
+24,consumer electronics,19
+24,consumer goods,12
+24,consumer services,76
+24,defense & space,27
+24,education management,18
+24,electrical/electronic manufacturing,123
+24,entertainment,12
+24,environmental services,23
+24,facilities services,31
+24,financial services,87
+24,fine art,18
+24,food & beverages,59
+24,gambling & casinos,26
+24,"health, wellness and fitness",79
+24,higher education,62
+24,hospital & health care,232
+24,hospitality,46
+24,human resources,182
+24,information technology and services,498
+24,international affairs,18
+24,international trade and development,5
+24,internet,44
+24,law practice,35
+24,legal services,30
+24,logistics and supply chain,315
+24,machinery,47
+24,management consulting,80
+24,marketing and advertising,67
+24,media production,20
+24,medical devices,13
+24,mining & metals,78
+24,motion pictures and film,13
+24,non-profit organization management,67
+24,nonprofit organization management,28
+24,oil & energy,112
+24,pharmaceuticals,21
+24,program development,24
+24,real estate,51
+24,renewables & environment,65
+24,research,29
+24,retail,48
+24,sports,26
+24,staffing and recruiting,1847
+24,telecommunications,150
+24,textiles,10
+24,transportation/trucking/railroad,20
+24,wholesale,17
+25,Education Services,135
+25,Healthcare & Social Assistance,119
+25,Unknown,1935
+25,civic & social organization,15
+25,computer software,131
+25,construction,39
+25,consumer electronics,29
+25,consumer services,26
+25,defense & space,123
+25,design,24
+25,e-learning,21
+25,education management,819
+25,electrical/electronic manufacturing,222
+25,fine art,27
+25,government administration,26
+25,"health, wellness and fitness",281
+25,higher education,394
+25,hospital & health care,1421
+25,hospitality,9
+25,human resources,11
+25,individual & family services,101
+25,internet,59
+25,judiciary,10
+25,legal services,10
+25,management consulting,22
+25,mental health care,409
+25,mining & metals,11
+25,non-profit organization management,167
+25,oil & energy,25
+25,primary/secondary education,559
+25,public safety,14
+25,staffing and recruiting,584
+25,wholesale,13
+26,Accounting & Finance Services,112
+26,Data Science & Analytics,12
+26,Financial Services & Fintech,20
+26,Healthcare & Social Assistance,26
+26,IT Services & Software Development,505
+26,Legal Services,30
+26,Retail & E-commerce,100
+26,Robotics & Industrial Automation,56
+26,Unknown,876
+26,architecture & planning,17
+26,building materials,36
+26,business supplies and equipment,36
+26,civil engineering,39
+26,computer games,14
+26,computer hardware,21
+26,computer networking,15
+26,computer software,442
+26,construction,51
+26,cosmetics,30
+26,defense & space,84
+26,education management,16
+26,farming,8
+26,financial services,120
+26,higher education,29
+26,hospitality,15
+26,human resources,143
+26,information technology and services,1410
+26,insurance,29
+26,internet,62
+26,management consulting,111
+26,mechanical or industrial engineering,10
+26,nonprofit organization management,34
+26,outsourcing/offshoring,63
+26,public policy,21
+26,renewables & environment,26
+26,retail,77
+26,staffing and recruiting,470
+26,translation and localization,222
+27,Healthcare & Social Assistance,1332
+27,Medical Value Travel,111
+27,Unknown,748
+27,accounting,11
+27,aviation & aerospace,16
+27,computer networking,12
+27,construction,29
+27,consumer services,17
+27,cosmetics,183
+27,entertainment,10
+27,events services,26
+27,government administration,27
+27,"health, wellness and fitness",265
+27,hospital & health care,1305
+27,individual & family services,106
+27,information services,57
+27,information technology and services,44
+27,internet,92
+27,"leisure, travel & tourism",9
+27,marketing and advertising,51
+27,medical devices,11
+27,non-profit organization management,44
+27,outsourcing/offshoring,11
+27,philanthropy,26
+27,real estate,67
+27,restaurants,47
+27,staffing and recruiting,133
+27,telecommunications,55
+27,veterinary,20
+28,Healthcare & Social Assistance,698
+28,Medical Value Travel,1531
+29,Aerospace & Defense,367
+29,Artificial Intelligence & Machine Learning,483
+29,Automotive & Electric Vehicles,30
+29,Capital Goods & Industrial Machinery,120
+29,Communication Services,21
+29,Construction & Civil Infrastructure,18
+29,Cybersecurity,23
+29,Data Science & Analytics,216
+29,Education Services,42
+29,Electronics & Semiconductors (ESDM),42
+29,Energy & Power Generation,17
+29,Environmental Services,19
+29,Gems & Jewellery,9
+29,IT Services & Software Development,1852
+29,Information Technology Enabled Services (ITeS),385
+29,Legal Services,293
+29,Media & Entertainment,8
+29,Retail & E-commerce,42
+29,Robotics & Industrial Automation,86
+29,Shipping & Marine Engineering,113
+29,Transport & Logistics Services,80
+29,Unknown,1018
+29,accounting,65
+29,architecture & planning,30
+29,automotive,138
+29,aviation & aerospace,122
+29,building materials,96
+29,capital markets,24
+29,chemicals,21
+29,civil engineering,40
+29,computer & network security,108
+29,computer games,44
+29,computer hardware,26
+29,computer networking,97
+29,computer software,348
+29,construction,118
+29,consumer electronics,33
+29,consumer goods,23
+29,dairy,37
+29,defense & space,1071
+29,design,30
+29,e-learning,14
+29,electrical/electronic manufacturing,37
+29,entertainment,38
+29,financial services,550
+29,government administration,34
+29,graphic design,84
+29,higher education,145
+29,hospital & health care,38
+29,hospitality,38
+29,human resources,41
+29,import and export,38
+29,individual & family services,46
+29,industrial automation,38
+29,information technology and services,1456
+29,insurance,28
+29,internet,384
+29,investment management,30
+29,legal services,49
+29,"leisure, travel & tourism",28
+29,management consulting,125
+29,maritime,19
+29,marketing and advertising,145
+29,mechanical or industrial engineering,110
+29,medical devices,56
+29,mental health care,16
+29,mining & metals,22
+29,non-profit organization management,33
+29,oil & energy,30
+29,packaging and containers,29
+29,pharmaceuticals,41
+29,professional training & coaching,29
+29,real estate,113
+29,renewables & environment,106
+29,research,99
+29,retail,86
+29,semiconductors,312
+29,staffing and recruiting,319
+29,telecommunications,58
+29,textiles,69
+29,transportation/trucking/railroad,20
+29,venture capital & private equity,29
+29,warehousing,22
+30,Aerospace & Defense,21
+30,Capital Goods & Industrial Machinery,19
+30,Construction & Civil Infrastructure,84
+30,Cybersecurity,24
+30,Energy & Power Generation,30
+30,Environmental Services,158
+30,Food Processing,20
+30,Healthcare & Social Assistance,22
+30,Information Technology Enabled Services (ITeS),19
+30,Real Estate & Property Management,16
+30,Robotics & Industrial Automation,35
+30,Transport & Logistics Services,318
+30,Unknown,310
+30,accounting,110
+30,airlines/aviation,34
+30,architecture & planning,16
+30,aviation & aerospace,46
+30,biotechnology,24
+30,building materials,86
+30,business supplies and equipment,19
+30,chemicals,100
+30,civil engineering,40
+30,computer software,75
+30,construction,497
+30,consumer electronics,23
+30,consumer goods,11
+30,consumer services,25
+30,defense & space,44
+30,design,13
+30,electrical/electronic manufacturing,78
+30,environmental services,47
+30,facilities services,45
+30,financial services,27
+30,food & beverages,39
+30,food production,148
+30,government relations,24
+30,higher education,30
+30,hospital & health care,46
+30,human resources,97
+30,industrial automation,28
+30,information services,23
+30,information technology and services,170
+30,insurance,18
+30,internet,31
+30,investment management,26
+30,law practice,24
+30,machinery,106
+30,management consulting,153
+30,maritime,27
+30,marketing and advertising,101
+30,mechanical or industrial engineering,26
+30,mining & metals,18
+30,museums and institutions,27
+30,non-profit organization management,41
+30,oil & energy,159
+30,packaging and containers,56
+30,pharmaceuticals,25
+30,photography,30
+30,plastics,62
+30,printing,44
+30,professional training & coaching,39
+30,public relations and communications,16
+30,real estate,122
+30,renewables & environment,71
+30,research,81
+30,retail,136
+30,semiconductors,73
+30,shipbuilding,38
+30,staffing and recruiting,312
+30,utilities,138
+30,venture capital & private equity,33
+30,warehousing,62
+30,wholesale,25
+31,Accounting & Finance Services,22
+31,Artificial Intelligence & Machine Learning,33
+31,Education Services,29
+31,Healthcare & Social Assistance,665
+31,Legal Services,25
+31,Medical Value Travel,219
+31,Pharmaceuticals & Medical Devices,326
+31,Professional Services & Consulting,50
+31,Unknown,704
+31,biotechnology,400
+31,civic & social organization,33
+31,commercial real estate,24
+31,computer software,44
+31,construction,37
+31,design,57
+31,education management,118
+31,electrical/electronic manufacturing,31
+31,government administration,146
+31,"health, wellness and fitness",113
+31,higher education,524
+31,hospital & health care,1524
+31,information technology and services,68
+31,internet,131
+31,"leisure, travel & tourism",37
+31,logistics and supply chain,59
+31,machinery,31
+31,management consulting,93
+31,marketing and advertising,60
+31,mechanical or industrial engineering,6
+31,medical devices,125
+31,medical practice,27
+31,military,29
+31,pharmaceuticals,385
+31,philanthropy,25
+31,plastics,14
+31,religious institutions,13
+31,research,87
+31,retail,123
+31,staffing and recruiting,379
+31,textiles,15
+31,veterinary,488
+31,writing and editing,20
+32,Healthcare & Social Assistance,601
+32,Legal Services,15
+32,Medical Value Travel,68
+32,Professional Services & Consulting,40
+32,Unknown,2034
+32,biotechnology,42
+32,civic & social organization,16
+32,computer software,50
+32,construction,36
+32,design,36
+32,education management,36
+32,government administration,564
+32,"health, wellness and fitness",193
+32,higher education,533
+32,hospital & health care,2728
+32,human resources,740
+32,individual & family services,12
+32,information technology and services,8
+32,internet,27
+32,legal services,254
+32,management consulting,163
+32,medical practice,9
+32,mental health care,484
+32,military,28
+32,non-profit organization management,184
+32,outsourcing/offshoring,45
+32,primary/secondary education,22
+32,public safety,99
+32,real estate,17
+32,research,31
+32,security and investigations,33
+32,staffing and recruiting,310
+32,telecommunications,16
+32,textiles,53
+33,Accounting & Finance Services,1081
+33,Healthcare & Social Assistance,20
+33,Professional Services & Consulting,19
+33,Unknown,56
+33,accounting,150
+33,automotive,38
+33,banking,275
+33,building materials,59
+33,civic & social organization,48
+33,computer software,10
+33,consumer services,14
+33,defense & space,38
+33,design,17
+33,environmental services,35
+33,financial services,231
+33,food production,33
+33,government administration,118
+33,higher education,19
+33,hospital & health care,26
+33,hospitality,13
+33,human resources,120
+33,information technology and services,62
+33,insurance,25
+33,international trade and development,21
+33,internet,63
+33,legal services,18
+33,"leisure, travel & tourism",271
+33,logistics and supply chain,17
+33,management consulting,112
+33,mechanical or industrial engineering,18
+33,mental health care,23
+33,non-profit organization management,25
+33,oil & energy,43
+33,outsourcing/offshoring,16
+33,photography,17
+33,primary/secondary education,31
+33,real estate,49
+33,renewables & environment,27
+33,restaurants,27
+33,retail,44
+33,semiconductors,55
+33,staffing and recruiting,463
+33,telecommunications,16
+33,textiles,31
+34,Healthcare & Social Assistance,88
+34,Medical Value Travel,1
+34,Unknown,75
+34,hospital & health care,15
+34,human resources,10
+34,restaurants,13
+34,staffing and recruiting,989
+35,Accounting & Finance Services,47
+35,Cybersecurity,571
+35,Healthcare & Social Assistance,27
+35,Information Technology Enabled Services (ITeS),22
+35,Legal Services,38
+35,Transport & Logistics Services,16
+35,Unknown,460
+35,building materials,33
+35,civil engineering,57
+35,computer & network security,10
+35,computer software,36
+35,construction,13
+35,defense & space,588
+35,education management,21
+35,entertainment,12
+35,financial services,351
+35,government administration,469
+35,"health, wellness and fitness",36
+35,higher education,39
+35,hospital & health care,455
+35,hospitality,20
+35,human resources,209
+35,import and export,22
+35,information technology and services,166
+35,insurance,18
+35,international affairs,21
+35,judiciary,18
+35,law enforcement,32
+35,legal services,34
+35,management consulting,89
+35,marketing and advertising,24
+35,mental health care,19
+35,military,37
+35,non-profit organization management,29
+35,oil & energy,32
+35,pharmaceuticals,34
+35,photography,52
+35,recreational facilities and services,18
+35,renewables & environment,9
+35,research,48
+35,security and investigations,416
+35,staffing and recruiting,72
+36,Healthcare & Social Assistance,2368
+36,Information Technology Enabled Services (ITeS),15
+36,Medical Value Travel,156
+36,Tourism & Hospitality,12
+36,Unknown,699
+36,airlines/aviation,25
+36,automotive,31
+36,biotechnology,111
+36,computer & network security,15
+36,computer software,43
+36,education management,14
+36,facilities services,20
+36,government administration,36
+36,"health, wellness and fitness",128
+36,higher education,151
+36,hospital & health care,5332
+36,human resources,41
+36,information technology and services,45
+36,insurance,10
+36,internet,27
+36,legal services,107
+36,management consulting,17
+36,marketing and advertising,75
+36,medical devices,11
+36,medical practice,174
+36,mental health care,24
+36,research,41
+36,restaurants,63
+36,retail,71
+36,staffing and recruiting,1891
+36,textiles,192
+37,Education Services,21
+37,Healthcare & Social Assistance,66
+37,Unknown,502
+37,biotechnology,21
+37,commercial real estate,19
+37,design,41
+37,education management,331
+37,food production,28
+37,fund-raising,19
+37,government administration,55
+37,government relations,8
+37,"health, wellness and fitness",111
+37,higher education,251
+37,hospital & health care,15
+37,human resources,15
+37,legal services,33
+37,non-profit organization management,30
+37,performing arts,33
+37,political organization,7
+37,primary/secondary education,180
+37,real estate,5
+37,recreational facilities and services,28
+37,religious institutions,16
+37,sports,35
+37,transportation/trucking/railroad,12
+38,Biotechnology,15
+38,Data Science & Analytics,13
+38,Education Services,35
+38,Healthcare & Social Assistance,568
+38,Legal Services,40
+38,Professional Services & Consulting,16
+38,Unknown,620
+38,civic & social organization,76
+38,civil engineering,27
+38,design,12
+38,education management,132
+38,electrical/electronic manufacturing,24
+38,government administration,142
+38,"health, wellness and fitness",195
+38,higher education,422
+38,hospital & health care,1184
+38,hospitality,12
+38,human resources,67
+38,individual & family services,23
+38,information technology and services,79
+38,insurance,52
+38,internet,55
+38,judiciary,43
+38,law practice,21
+38,management consulting,48
+38,marketing and advertising,16
+38,mechanical or industrial engineering,9
+38,medical devices,45
+38,medical practice,240
+38,mental health care,23
+38,mining & metals,11
+38,non-profit organization management,34
+38,pharmaceuticals,34
+38,photography,15
+38,primary/secondary education,56
+38,religious institutions,14
+38,research,39
+38,restaurants,27
+38,staffing and recruiting,151
+38,telecommunications,12
+38,textiles,45
+38,utilities,25
+39,Healthcare & Social Assistance,120
+39,Unknown,2101
+39,human resources,127
+39,internet,130
+39,medical practice,154
+39,staffing and recruiting,17
+40,Healthcare & Social Assistance,955
+40,Information Technology Enabled Services (ITeS),36
+40,government administration,21
+40,"health, wellness and fitness",6
+40,hospital & health care,318
+40,marketing and advertising,7
+40,staffing and recruiting,425
+41,Accounting & Finance Services,19
+41,Biotechnology,11
+41,Data Science & Analytics,42
+41,Environmental Services,107
+41,Fashion & Apparel,17
+41,Financial Services & Fintech,26
+41,Food Processing,30
+41,Healthcare & Social Assistance,147
+41,IT Services & Software Development,20
+41,Information Technology Enabled Services (ITeS),332
+41,Legal Services,54
+41,"Marketing, Advertising & PR",122
+41,Media & Entertainment,32
+41,Medical Value Travel,39
+41,Professional Services & Consulting,29
+41,Retail & E-commerce,23
+41,Tourism & Hospitality,281
+41,Transport & Logistics Services,38
+41,Unknown,626
+41,accounting,56
+41,alternative medicine,32
+41,apparel & fashion,35
+41,architecture & planning,28
+41,automotive,50
+41,banking,73
+41,building materials,177
+41,chemicals,76
+41,civil engineering,132
+41,computer & network security,24
+41,computer hardware,18
+41,computer networking,4
+41,computer software,129
+41,construction,262
+41,consumer electronics,47
+41,consumer goods,99
+41,consumer services,306
+41,defense & space,19
+41,design,57
+41,e-learning,13
+41,electrical/electronic manufacturing,80
+41,entertainment,92
+41,environmental services,45
+41,events services,40
+41,executive office,27
+41,facilities services,20
+41,farming,7
+41,financial services,303
+41,food & beverages,67
+41,food production,28
+41,gambling & casinos,37
+41,government administration,94
+41,graphic design,49
+41,"health, wellness and fitness",268
+41,higher education,132
+41,hospital & health care,224
+41,hospitality,323
+41,human resources,98
+41,individual & family services,19
+41,information services,9
+41,information technology and services,139
+41,insurance,183
+41,international trade and development,19
+41,internet,328
+41,law practice,77
+41,"leisure, travel & tourism",77
+41,logistics and supply chain,31
+41,machinery,14
+41,management consulting,48
+41,market research,19
+41,marketing and advertising,260
+41,mechanical or industrial engineering,62
+41,museums and institutions,24
+41,music,76
+41,non-profit organization management,54
+41,nonprofit organization management,21
+41,online media,35
+41,performing arts,23
+41,pharmaceuticals,143
+41,professional training & coaching,13
+41,public relations and communications,98
+41,public safety,33
+41,real estate,205
+41,recreational facilities and services,41
+41,religious institutions,42
+41,renewables & environment,44
+41,restaurants,24
+41,retail,209
+41,security and investigations,12
+41,sports,19
+41,staffing and recruiting,180
+41,transportation/trucking/railroad,32
+41,wholesale,6
+41,wine and spirits,19
+41,wireless,17
+42,Environmental Services,15
+42,Fashion & Apparel,118
+42,Information Technology Enabled Services (ITeS),20
+42,Leather & Footwear,99
+42,Retail & E-commerce,441
+42,Tourism & Hospitality,76
+42,Unknown,281
+42,accounting,14
+42,apparel & fashion,543
+42,arts and crafts,27
+42,automotive,53
+42,building materials,73
+42,capital markets,17
+42,commercial real estate,21
+42,computer software,23
+42,construction,26
+42,consumer goods,257
+42,consumer services,84
+42,cosmetics,42
+42,entertainment,21
+42,facilities services,14
+42,financial services,49
+42,food & beverages,79
+42,food production,22
+42,government administration,10
+42,graphic design,20
+42,higher education,93
+42,hospital & health care,15
+42,hospitality,16
+42,human resources,45
+42,information technology and services,79
+42,internet,143
+42,"leisure, travel & tourism",34
+42,logistics and supply chain,12
+42,luxury goods & jewelry,122
+42,management consulting,80
+42,market research,28
+42,marketing and advertising,135
+42,mining & metals,5
+42,music,16
+42,non-profit organization management,22
+42,packaging and containers,24
+42,photography,111
+42,program development,24
+42,public relations and communications,73
+42,railroad manufacture,12
+42,real estate,22
+42,restaurants,44
+42,retail,1917
+42,sporting goods,28
+42,staffing and recruiting,171
+42,warehousing,66
+42,wholesale,61
+43,Accounting & Finance Services,46
+43,Artificial Intelligence & Machine Learning,68
+43,CleanTech & Sustainability,20
+43,Information Technology Enabled Services (ITeS),51
+43,Leather & Footwear,24
+43,Transport & Logistics Services,36
+43,Unknown,336
+43,airlines/aviation,38
+43,aviation & aerospace,15
+43,biotechnology,26
+43,design,21
+43,electrical/electronic manufacturing,32
+43,environmental services,19
+43,facilities services,36
+43,furniture,19
+43,government administration,67
+43,hospital & health care,84
+43,human resources,30
+43,information technology and services,46
+43,management consulting,93
+43,marketing and advertising,85
+43,mechanical or industrial engineering,35
+43,non-profit organization management,11
+43,real estate,50
+43,retail,26
+43,staffing and recruiting,11
+43,telecommunications,27
+43,transportation/trucking/railroad,25
+44,Food Processing,13
+44,Information Technology Enabled Services (ITeS),26
+44,Tourism & Hospitality,580
+44,Unknown,153
+44,accounting,15
+44,apparel & fashion,20
+44,broadcast media,19
+44,design,17
+44,education management,18
+44,electrical/electronic manufacturing,14
+44,entertainment,91
+44,farming,11
+44,financial services,55
+44,food & beverages,322
+44,gambling & casinos,25
+44,hospitality,289
+44,information technology and services,27
+44,international trade and development,118
+44,"leisure, travel & tourism",52
+44,public relations and communications,10
+44,restaurants,1674
+44,retail,177
+44,staffing and recruiting,524
+44,wholesale,21
+45,Information Technology Enabled Services (ITeS),16
+45,Retail & E-commerce,28
+45,Unknown,639
+45,"health, wellness and fitness",13
+45,retail,54
+46,Accounting & Finance Services,345
+46,Automotive & Electric Vehicles,22
+46,Biotechnology,139
+46,Capital Goods & Industrial Machinery,31
+46,Environmental Services,20
+46,Food Processing,232
+46,Gems & Jewellery,228
+46,Healthcare & Social Assistance,107
+46,Information Technology Enabled Services (ITeS),13
+46,Leather & Footwear,17
+46,Pharmaceuticals & Medical Devices,85
+46,Professional Services & Consulting,19
+46,Retail & E-commerce,25
+46,Transport & Logistics Services,45
+46,Unknown,918
+46,accounting,18
+46,automotive,89
+46,aviation & aerospace,107
+46,biotechnology,157
+46,building materials,6
+46,business supplies and equipment,16
+46,chemicals,116
+46,computer & network security,22
+46,computer hardware,34
+46,computer software,341
+46,consumer goods,52
+46,defense & space,203
+46,design,60
+46,education management,28
+46,electrical/electronic manufacturing,100
+46,events services,15
+46,executive office,32
+46,food & beverages,31
+46,food production,59
+46,furniture,24
+46,government administration,164
+46,government relations,25
+46,hospital & health care,138
+46,human resources,82
+46,import and export,30
+46,information technology and services,205
+46,internet,109
+46,investment management,18
+46,law practice,21
+46,logistics and supply chain,23
+46,management consulting,147
+46,marketing and advertising,193
+46,mechanical or industrial engineering,30
+46,medical devices,9
+46,medical practice,32
+46,mining & metals,64
+46,non-profit organization management,33
+46,oil & energy,36
+46,packaging and containers,14
+46,pharmaceuticals,332
+46,professional training & coaching,103
+46,publishing,19
+46,real estate,19
+46,research,32
+46,retail,67
+46,semiconductors,26
+46,sporting goods,19
+46,staffing and recruiting,510
+46,supermarkets,31
+46,telecommunications,60
+46,transportation/trucking/railroad,14
+47,Accounting & Finance Services,62
+47,Healthcare & Social Assistance,101
+47,Information Technology Enabled Services (ITeS),27
+47,Professional Services & Consulting,151
+47,Real Estate & Property Management,18
+47,Retail & E-commerce,331
+47,Tourism & Hospitality,44
+47,Transport & Logistics Services,45
+47,Unknown,1048
+47,accounting,53
+47,airlines/aviation,13
+47,apparel & fashion,20
+47,architecture & planning,53
+47,automotive,87
+47,banking,26
+47,building materials,58
+47,chemicals,12
+47,computer hardware,9
+47,construction,196
+47,consumer goods,6
+47,consumer services,44
+47,education management,18
+47,electrical/electronic manufacturing,127
+47,environmental services,11
+47,executive office,211
+47,facilities services,33
+47,financial services,223
+47,food & beverages,69
+47,food production,20
+47,gambling & casinos,15
+47,government administration,218
+47,government relations,42
+47,"health, wellness and fitness",63
+47,higher education,75
+47,hospital & health care,227
+47,hospitality,71
+47,human resources,109
+47,import and export,18
+47,individual & family services,44
+47,information technology and services,82
+47,insurance,52
+47,internet,56
+47,law enforcement,30
+47,law practice,8
+47,legal services,16
+47,"leisure, travel & tourism",23
+47,libraries,22
+47,logistics and supply chain,27
+47,luxury goods & jewelry,55
+47,machinery,96
+47,management consulting,100
+47,marketing and advertising,101
+47,mechanical or industrial engineering,132
+47,mental health care,46
+47,museums and institutions,19
+47,non-profit organization management,99
+47,oil & energy,57
+47,pharmaceuticals,20
+47,professional training & coaching,24
+47,real estate,119
+47,religious institutions,14
+47,renewables & environment,33
+47,restaurants,97
+47,retail,524
+47,security and investigations,32
+47,staffing and recruiting,531
+47,telecommunications,50
+47,transportation/trucking/railroad,98
+47,utilities,20
+47,warehousing,24
+47,wholesale,39
+47,writing and editing,15
+48,Automotive & Electric Vehicles,88
+48,Capital Goods & Industrial Machinery,591
+48,Electronics & Semiconductors (ESDM),18
+48,Environmental Services,58
+48,Gems & Jewellery,3
+48,Information Technology Enabled Services (ITeS),12
+48,Materials & Metallurgical Engineering,41
+48,New & Renewable Energy,18
+48,Robotics & Industrial Automation,12
+48,Shipping & Marine Engineering,13
+48,Tourism & Hospitality,13
+48,Transport & Logistics Services,134
+48,Unknown,919
+48,automotive,62
+48,aviation & aerospace,64
+48,broadcast media,11
+48,building materials,77
+48,civil engineering,233
+48,computer networking,25
+48,computer software,33
+48,construction,291
+48,consumer services,50
+48,defense & space,51
+48,electrical/electronic manufacturing,17
+48,entertainment,18
+48,environmental services,160
+48,facilities services,19
+48,financial services,71
+48,government administration,134
+48,"health, wellness and fitness",28
+48,higher education,30
+48,hospital & health care,61
+48,hospitality,22
+48,human resources,33
+48,industrial automation,33
+48,information technology and services,166
+48,machinery,18
+48,management consulting,157
+48,marketing and advertising,125
+48,mechanical or industrial engineering,85
+48,media production,40
+48,medical devices,29
+48,mining & metals,55
+48,non-profit organization management,13
+48,oil & energy,67
+48,plastics,15
+48,primary/secondary education,24
+48,real estate,45
+48,renewables & environment,86
+48,research,17
+48,retail,48
+48,staffing and recruiting,254
+48,telecommunications,39
+48,transportation/trucking/railroad,62
+48,warehousing,66
+49,Education Services,22
+49,Environmental Services,28
+49,Gems & Jewellery,23
+49,Information Technology Enabled Services (ITeS),18
+49,Professional Services & Consulting,789
+49,Retail & E-commerce,26
+49,Transport & Logistics Services,42
+49,Unknown,234
+49,accounting,52
+49,airlines/aviation,50
+49,automotive,68
+49,aviation & aerospace,22
+49,building materials,29
+49,business supplies and equipment,37
+49,chemicals,20
+49,commercial real estate,28
+49,computer & network security,21
+49,computer software,82
+49,construction,120
+49,consumer services,48
+49,defense & space,15
+49,education management,15
+49,electrical/electronic manufacturing,15
+49,environmental services,21
+49,executive office,16
+49,facilities services,44
+49,food & beverages,22
+49,food production,47
+49,furniture,45
+49,government administration,21
+49,"health, wellness and fitness",34
+49,higher education,68
+49,hospital & health care,175
+49,hospitality,62
+49,human resources,102
+49,individual & family services,35
+49,industrial automation,71
+49,information technology and services,196
+49,insurance,30
+49,internet,59
+49,legal services,40
+49,logistics and supply chain,58
+49,machinery,10
+49,management consulting,79
+49,marketing and advertising,109
+49,medical devices,29
+49,medical practice,18
+49,mining & metals,41
+49,music,12
+49,non-profit organization management,61
+49,oil & energy,110
+49,plastics,18
+49,political organization,15
+49,printing,20
+49,real estate,18
+49,research,27
+49,restaurants,15
+49,retail,53
+49,security and investigations,104
+49,semiconductors,22
+49,staffing and recruiting,544
+49,supermarkets,15
+49,textiles,19
+49,utilities,14
+49,venture capital & private equity,19
+49,warehousing,45
+49,wine and spirits,34

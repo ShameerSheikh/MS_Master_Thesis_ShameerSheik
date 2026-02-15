@@ -1,0 +1,501 @@
+user_id,job_id,job_title,rank
+User_05471,Job_14464,sr. mechanical engineer-engine development,1
+User_05471,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),2
+User_05471,Job_14174,sr. mechanical engineer (spacecraft structures),3
+User_05471,Job_07656,senior systems engineer **,4
+User_05471,Job_02107,staff systems engineer advanced programs,5
+User_08983,Job_06527,quality assurance analyst - atac,1
+User_08983,Job_10586,senior software developer,2
+User_08983,Job_07656,senior systems engineer **,3
+User_08983,Job_14401,sr. site reliability engineer (paas/software),4
+User_08983,Job_14401,sr. site reliability engineer (paas/software),5
+User_04705,Job_03198,"sr. software engineer, user experience",1
+User_04705,Job_09876,systems data management specialist,2
+User_04705,Job_01981,sr. security validation engineer,3
+User_04705,Job_00255,controls systems engineer,4
+User_04705,Job_13893,site manager,5
+User_01955,Job_02585,principal engineer systems test/senior principal engineer system with security clearance,1
+User_01955,Job_10369,"engineer, computer iv with security clearance",2
+User_01955,Job_10369,"engineer, computer iv with security clearance",3
+User_01955,Job_01997,senior program and engineering manager | cruise missile systems with security clearance,4
+User_01955,Job_02807,systems engineer level 3 with security clearance,5
+User_03147,Job_06493,senior machine learning engineer,1
+User_03147,Job_06493,senior machine learning engineer,2
+User_03147,Job_06493,senior machine learning engineer,3
+User_03147,Job_06493,senior machine learning engineer,4
+User_03147,Job_00521,lead machine learning engineer,5
+User_01124,Job_14464,sr. mechanical engineer-engine development,1
+User_01124,Job_08697,"radiographer - part time and full time available! up to $15,000 sign on bonus!!",2
+User_01124,Job_02568,"senior systems software engineer, c++ and cuda - accelerated apache spark",3
+User_01124,Job_06133,"lead, software engineering - embedded engineer 1",4
+User_01124,Job_06842,senior business systems analyst - digital experience,5
+User_07186,Job_06842,senior business systems analyst - digital experience,1
+User_07186,Job_14464,sr. mechanical engineer-engine development,2
+User_07186,Job_06768,business systems analyst - digital experience,3
+User_07186,Job_06863,quality analyst 4 - x65,4
+User_07186,Job_06209,quality analyst 3,5
+User_02289,Job_06493,senior machine learning engineer,1
+User_02289,Job_06493,senior machine learning engineer,2
+User_02289,Job_00521,lead machine learning engineer,3
+User_02289,Job_06493,senior machine learning engineer,4
+User_02289,Job_06493,senior machine learning engineer,5
+User_01035,Job_00347,engineer- data - iii (823423),1
+User_01035,Job_02573,"senior gnc engineer in glasgow, uk",2
+User_01035,Job_07711,senior unreal programmer,3
+User_01035,Job_02693,"senior cloudflare waf engineer in yorkshire, uk",4
+User_01035,Job_14333,principal devops engineer,5
+User_08762,Job_09142,part time ultrasound technologist,1
+User_08762,Job_12147,multi-modality technologist,2
+User_08762,Job_08166,prn multi-modality technologist,3
+User_08762,Job_09522,prn mri technologist,4
+User_08762,Job_08650,prn ultrasound technologist,5
+User_05969,Job_00265,sr. system engineer (onsite),1
+User_05969,Job_06429,"software developer and tester, senior with security clearance",2
+User_05969,Job_02838,principal firmware engineer,3
+User_05969,Job_02568,"senior systems software engineer, c++ and cuda - accelerated apache spark",4
+User_05969,Job_01942,system protection and studies eit/coordinator,5
+User_08823,Job_14464,sr. mechanical engineer-engine development,1
+User_08823,Job_10586,senior software developer,2
+User_08823,Job_13779,ori - office manager,3
+User_08823,Job_14174,sr. mechanical engineer (spacecraft structures),4
+User_08823,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),5
+User_07895,Job_06780,sr spectrum policy analyst (qa policy & strategy analyst 4) - 17025,1
+User_07895,Job_09842,"senior manager, data engineering",2
+User_07895,Job_02174,data engineer iv,3
+User_07895,Job_05834,sr. data engineer (hybrid),4
+User_07895,Job_02612,lead data engineer (finops),5
+User_00953,Job_05834,sr. data engineer (hybrid),1
+User_00953,Job_09842,"senior manager, data engineering",2
+User_00953,Job_02174,data engineer iv,3
+User_00953,Job_02612,lead data engineer (finops),4
+User_00953,Job_06436,lead data engineer,5
+User_03435,Job_14464,sr. mechanical engineer-engine development,1
+User_03435,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),2
+User_03435,Job_08913,radiology technologist / x-ray (lmrt),3
+User_03435,Job_14174,sr. mechanical engineer (spacecraft structures),4
+User_03435,Job_08750,radiology technologist / x-ray (ptr),5
+User_02363,Job_14464,sr. mechanical engineer-engine development,1
+User_02363,Job_03040,middle market - commercial property & casualty sales executive,2
+User_02363,Job_09755,"senior manager, business data analysis – business intelligence",3
+User_02363,Job_02531,"specialty underwriter (management & professional liability) bala cynwyd, pa, ewing, nj or melville, ny",4
+User_02363,Job_10149,client executive - property & casualty insurance,5
+User_03086,Job_14464,sr. mechanical engineer-engine development,1
+User_03086,Job_00541,senior microsoft systems engineer,2
+User_03086,Job_10369,"engineer, computer iv with security clearance",3
+User_03086,Job_10369,"engineer, computer iv with security clearance",4
+User_03086,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),5
+User_06297,Job_06842,senior business systems analyst - digital experience,1
+User_06297,Job_06768,business systems analyst - digital experience,2
+User_06297,Job_13779,ori - office manager,3
+User_06297,Job_07656,senior systems engineer **,4
+User_06297,Job_02107,staff systems engineer advanced programs,5
+User_08876,Job_05834,sr. data engineer (hybrid),1
+User_08876,Job_02612,lead data engineer (finops),2
+User_08876,Job_09842,"senior manager, data engineering",3
+User_08876,Job_02174,data engineer iv,4
+User_08876,Job_06436,lead data engineer,5
+User_03788,Job_06493,senior machine learning engineer,1
+User_03788,Job_06493,senior machine learning engineer,2
+User_03788,Job_12147,multi-modality technologist,3
+User_03788,Job_09142,part time ultrasound technologist,4
+User_03788,Job_06493,senior machine learning engineer,5
+User_01748,Job_10586,senior software developer,1
+User_01748,Job_07656,senior systems engineer **,2
+User_01748,Job_06493,senior machine learning engineer,3
+User_01748,Job_06527,quality assurance analyst - atac,4
+User_01748,Job_14401,sr. site reliability engineer (paas/software),5
+User_07968,Job_12147,multi-modality technologist,1
+User_07968,Job_06493,senior machine learning engineer,2
+User_07968,Job_08166,prn multi-modality technologist,3
+User_07968,Job_07756,speech and language therapist,4
+User_07968,Job_09142,part time ultrasound technologist,5
+User_04229,Job_03212,senior embedded software engineer,1
+User_04229,Job_04863,principal dev ops engineer- data platform,2
+User_04229,Job_13160,global talent development partner - g&a & i&d,3
+User_04229,Job_07303,"systems engineer, service providers",4
+User_04229,Job_10369,"engineer, computer iv with security clearance",5
+User_09270,Job_09842,"senior manager, data engineering",1
+User_09270,Job_05834,sr. data engineer (hybrid),2
+User_09270,Job_02174,data engineer iv,3
+User_09270,Job_02612,lead data engineer (finops),4
+User_09270,Job_06771,senior lead data engineer,5
+User_00252,Job_14174,sr. mechanical engineer (spacecraft structures),1
+User_00252,Job_06133,"lead, software engineering - embedded engineer 1",2
+User_00252,Job_14359,spacecraft engineer - adcs,3
+User_00252,Job_03630,model based systems engineers,4
+User_00252,Job_05642,pm aircraft survivability equipment software engineer - 17180,5
+User_07595,Job_14464,sr. mechanical engineer-engine development,1
+User_07595,Job_14194,executive recruiter,2
+User_07595,Job_02531,"specialty underwriter (management & professional liability) bala cynwyd, pa, ewing, nj or melville, ny",3
+User_07595,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),4
+User_07595,Job_06133,"lead, software engineering - embedded engineer 1",5
+User_04817,Job_14464,sr. mechanical engineer-engine development,1
+User_04817,Job_02600,client program analyst i,2
+User_04817,Job_13281,functional fs-cd sap consultant,3
+User_04817,Job_13779,ori - office manager,4
+User_04817,Job_06842,senior business systems analyst - digital experience,5
+User_09235,Job_14464,sr. mechanical engineer-engine development,1
+User_09235,Job_02352,"senior manager, robotics and process automation",2
+User_09235,Job_13779,ori - office manager,3
+User_09235,Job_00218,new product and lab project manager,4
+User_09235,Job_09930,product manager iii/iv - software development,5
+User_04302,Job_06671,senior software engineer,1
+User_04302,Job_00939,mainframe cmod administrator,2
+User_04302,Job_02777,senior engineer - baton rouge,3
+User_04302,Job_14404,senior mechanical engineer,4
+User_04302,Job_12217,"sr. facilities specialist (west lafayette or south bend, in)",5
+User_07014,Job_08697,"radiographer - part time and full time available! up to $15,000 sign on bonus!!",1
+User_07014,Job_08754,sr. reliability and safety engineer (pas),2
+User_07014,Job_00218,new product and lab project manager,3
+User_07014,Job_01997,senior program and engineering manager | cruise missile systems with security clearance,4
+User_07014,Job_06121,"staff software engineer, developer tooling, processes, and productivity",5
+User_02484,Job_14194,executive recruiter,1
+User_02484,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),2
+User_02484,Job_12242,"associate, facilities",3
+User_02484,Job_08750,radiology technologist / x-ray (ptr),4
+User_02484,Job_08750,radiology technologist / x-ray (ptr),5
+User_06193,Job_14464,sr. mechanical engineer-engine development,1
+User_06193,Job_12502,manufacturing engineering manager,2
+User_06193,Job_00218,new product and lab project manager,3
+User_06193,Job_06133,"lead, software engineering - embedded engineer 1",4
+User_06193,Job_08754,sr. reliability and safety engineer (pas),5
+User_01576,Job_14464,sr. mechanical engineer-engine development,1
+User_01576,Job_06842,senior business systems analyst - digital experience,2
+User_01576,Job_06768,business systems analyst - digital experience,3
+User_01576,Job_07475,senior it business analyst,4
+User_01576,Job_09755,"senior manager, business data analysis – business intelligence",5
+User_01248,Job_07264,radiologists,1
+User_01248,Job_12496,radiologic technologist,2
+User_01248,Job_12496,radiologic technologist,3
+User_01248,Job_12496,radiologic technologist,4
+User_01248,Job_06493,senior machine learning engineer,5
+User_06517,Job_04084,"senior benefits manager, leave administration and wellness",1
+User_06517,Job_09299,physician / internal medicine / colorado / permanent / we have opportunities for op only and hybrid op/hospitalist - your choice!recruitment package may job,2
+User_06517,Job_02310,nurse practitioner or physician assistant - emergency medicine (iu health arnett and white memorial hospitals),3
+User_06517,Job_08754,sr. reliability and safety engineer (pas),4
+User_06517,Job_12231,primary care physician for seniors up to $250k incentives and $10k geography stipend - 30 minutes from state college,5
+User_04065,Job_09842,"senior manager, data engineering",1
+User_04065,Job_05834,sr. data engineer (hybrid),2
+User_04065,Job_02612,lead data engineer (finops),3
+User_04065,Job_02174,data engineer iv,4
+User_04065,Job_06436,lead data engineer,5
+User_08372,Job_13779,ori - office manager,1
+User_08372,Job_01115,smartplant foundation and sdx administrator,2
+User_08372,Job_14464,sr. mechanical engineer-engine development,3
+User_08372,Job_06209,quality analyst 3,4
+User_08372,Job_06863,quality analyst 4 - x65,5
+User_02821,Job_05834,sr. data engineer (hybrid),1
+User_02821,Job_09842,"senior manager, data engineering",2
+User_02821,Job_02174,data engineer iv,3
+User_02821,Job_02612,lead data engineer (finops),4
+User_02821,Job_06436,lead data engineer,5
+User_01163,Job_10586,senior software developer,1
+User_01163,Job_07656,senior systems engineer **,2
+User_01163,Job_14401,sr. site reliability engineer (paas/software),3
+User_01163,Job_14401,sr. site reliability engineer (paas/software),4
+User_01163,Job_06527,quality assurance analyst - atac,5
+User_08481,Job_02838,principal firmware engineer,1
+User_08481,Job_10369,"engineer, computer iv with security clearance",2
+User_08481,Job_10369,"engineer, computer iv with security clearance",3
+User_08481,Job_03510,service controls technician,4
+User_08481,Job_13903,experienced hvac / refrigeration service technician,5
+User_06804,Job_02612,lead data engineer (finops),1
+User_06804,Job_06436,lead data engineer,2
+User_06804,Job_06780,sr spectrum policy analyst (qa policy & strategy analyst 4) - 17025,3
+User_06804,Job_02174,data engineer iv,4
+User_06804,Job_05834,sr. data engineer (hybrid),5
+User_06335,Job_00521,lead machine learning engineer,1
+User_06335,Job_06493,senior machine learning engineer,2
+User_06335,Job_06493,senior machine learning engineer,3
+User_06335,Job_06493,senior machine learning engineer,4
+User_06335,Job_05312,senior machine learning engineer - ai,5
+User_02288,Job_06725,financial business analyst i,1
+User_02288,Job_03810,manager of payroll processing and services,2
+User_02288,Job_03808,financial planning & analysis manager,3
+User_02288,Job_07142,financial and business analyst,4
+User_02288,Job_10032,"technical manager - college of arts and sciences, technical services",5
+User_04225,Job_01898,sr software developer,1
+User_04225,Job_02721,senior data science engineer,2
+User_04225,Job_06209,quality analyst 3,3
+User_04225,Job_12496,radiologic technologist,4
+User_04225,Job_12496,radiologic technologist,5
+User_09475,Job_14464,sr. mechanical engineer-engine development,1
+User_09475,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),2
+User_09475,Job_07656,senior systems engineer **,3
+User_09475,Job_12242,"associate, facilities",4
+User_09475,Job_08913,radiology technologist / x-ray (lmrt),5
+User_03985,Job_12147,multi-modality technologist,1
+User_03985,Job_08166,prn multi-modality technologist,2
+User_03985,Job_03805,senior linux systems engineer,3
+User_03985,Job_09142,part time ultrasound technologist,4
+User_03985,Job_03021,programmer iii,5
+User_08887,Job_14464,sr. mechanical engineer-engine development,1
+User_08887,Job_14174,sr. mechanical engineer (spacecraft structures),2
+User_08887,Job_01997,senior program and engineering manager | cruise missile systems with security clearance,3
+User_08887,Job_04551,mechanical engineering manager 2,4
+User_08887,Job_08216,principal/sr. principal mechanical engineer (hydraulics or ecs or fuel subsystems),5
+User_03419,Job_00521,lead machine learning engineer,1
+User_03419,Job_06493,senior machine learning engineer,2
+User_03419,Job_06493,senior machine learning engineer,3
+User_03419,Job_06493,senior machine learning engineer,4
+User_03419,Job_05312,senior machine learning engineer - ai,5
+User_04873,Job_04775,senior process engineer,1
+User_04873,Job_02568,"senior systems software engineer, c++ and cuda - accelerated apache spark",2
+User_04873,Job_10586,senior software developer,3
+User_04873,Job_02353,senior commodity manager - pcba and electronics,4
+User_04873,Job_06507,qa specialist - equipment and computer systems,5
+User_05377,Job_14464,sr. mechanical engineer-engine development,1
+User_05377,Job_13779,ori - office manager,2
+User_05377,Job_14194,executive recruiter,3
+User_05377,Job_06842,senior business systems analyst - digital experience,4
+User_05377,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),5
+User_06836,Job_14194,executive recruiter,1
+User_06836,Job_14464,sr. mechanical engineer-engine development,2
+User_06836,Job_13779,ori - office manager,3
+User_06836,Job_12242,"associate, facilities",4
+User_06836,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),5
+User_00624,Job_00218,new product and lab project manager,1
+User_00624,Job_14464,sr. mechanical engineer-engine development,2
+User_00624,Job_08754,sr. reliability and safety engineer (pas),3
+User_00624,Job_00218,new product and lab project manager,4
+User_00624,Job_10032,"technical manager - college of arts and sciences, technical services",5
+User_07458,Job_06493,senior machine learning engineer,1
+User_07458,Job_14464,sr. mechanical engineer-engine development,2
+User_07458,Job_00521,lead machine learning engineer,3
+User_07458,Job_06493,senior machine learning engineer,4
+User_07458,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),5
+User_02474,Job_05482,"senior software engineer, infrastructure",1
+User_02474,Job_02618,senior engineer - core services backend,2
+User_02474,Job_03758,senior product designer (gurugram-based),3
+User_02474,Job_07545,solutions architect,4
+User_02474,Job_03689,"staff product designer, design systems",5
+User_01663,Job_05641,"lead software engineer, back end (go, aws, java)",1
+User_01663,Job_03846,horizon3ai senior software engineer - systems/platform,2
+User_01663,Job_05641,"lead software engineer, back end (go, aws, java)",3
+User_01663,Job_03582,"engineer iv - software (memphis, tn or coppell, tx)",4
+User_01663,Job_02713,"lead software engineer, full stack (java, python, aws)",5
+User_06189,Job_06493,senior machine learning engineer,1
+User_06189,Job_06493,senior machine learning engineer,2
+User_06189,Job_00521,lead machine learning engineer,3
+User_06189,Job_06493,senior machine learning engineer,4
+User_06189,Job_06493,senior machine learning engineer,5
+User_06812,Job_09842,"senior manager, data engineering",1
+User_06812,Job_05834,sr. data engineer (hybrid),2
+User_06812,Job_06780,sr spectrum policy analyst (qa policy & strategy analyst 4) - 17025,3
+User_06812,Job_02174,data engineer iv,4
+User_06812,Job_02612,lead data engineer (finops),5
+User_06570,Job_06379,systems engineer level 3,1
+User_06570,Job_02568,"senior systems software engineer, c++ and cuda - accelerated apache spark",2
+User_06570,Job_07328,sr. systems engineer,3
+User_06570,Job_02807,systems engineer level 3 with security clearance,4
+User_06570,Job_07656,senior systems engineer **,5
+User_07959,Job_03758,senior product designer (gurugram-based),1
+User_07959,Job_03640,senior product designer,2
+User_07959,Job_00218,new product and lab project manager,3
+User_07959,Job_03689,"staff product designer, design systems",4
+User_07959,Job_09930,product manager iii/iv - software development,5
+User_03245,Job_06671,senior software engineer,1
+User_03245,Job_05165,tenure-track faculty in graphic design – multiple opportunities,2
+User_03245,Job_03778,senior cybersecurity engineer,3
+User_03245,Job_11534,"assistant professor - engineering technology (software quality, mobile technologies, edge computing)",4
+User_03245,Job_06036,research programmer/ senior research programmer- robotics institute,5
+User_08087,Job_00521,lead machine learning engineer,1
+User_08087,Job_06493,senior machine learning engineer,2
+User_08087,Job_06493,senior machine learning engineer,3
+User_08087,Job_06493,senior machine learning engineer,4
+User_08087,Job_05312,senior machine learning engineer - ai,5
+User_08043,Job_14464,sr. mechanical engineer-engine development,1
+User_08043,Job_03689,"staff product designer, design systems",2
+User_08043,Job_00218,new product and lab project manager,3
+User_08043,Job_08754,sr. reliability and safety engineer (pas),4
+User_08043,Job_11236,"(usa) senior manager, operations - fleet & safety management",5
+User_06699,Job_10586,senior software developer,1
+User_06699,Job_07656,senior systems engineer **,2
+User_06699,Job_06493,senior machine learning engineer,3
+User_06699,Job_14401,sr. site reliability engineer (paas/software),4
+User_06699,Job_14401,sr. site reliability engineer (paas/software),5
+User_03528,Job_03196,senior systems engineer,1
+User_03528,Job_08697,"radiographer - part time and full time available! up to $15,000 sign on bonus!!",2
+User_03528,Job_14384,qlty & reliability engineer i,3
+User_03528,Job_01848,"supervisor, manufacturing",4
+User_03528,Job_13882,"night foreman( adamo facility) 10 hour shifts-4 day work week(z) in tampa, fl, usa",5
+User_03102,Job_14174,sr. mechanical engineer (spacecraft structures),1
+User_03102,Job_06133,"lead, software engineering - embedded engineer 1",2
+User_03102,Job_14359,spacecraft engineer - adcs,3
+User_03102,Job_03630,model based systems engineers,4
+User_03102,Job_05642,pm aircraft survivability equipment software engineer - 17180,5
+User_01531,Job_01997,senior program and engineering manager | cruise missile systems with security clearance,1
+User_01531,Job_14464,sr. mechanical engineer-engine development,2
+User_01531,Job_08754,sr. reliability and safety engineer (pas),3
+User_01531,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),4
+User_01531,Job_06429,"software developer and tester, senior with security clearance",5
+User_02665,Job_07328,sr. systems engineer,1
+User_02665,Job_02107,staff systems engineer advanced programs,2
+User_02665,Job_10586,senior software developer,3
+User_02665,Job_03196,senior systems engineer,4
+User_02665,Job_14433,senior/staff reliability engineer,5
+User_06714,Job_05834,sr. data engineer (hybrid),1
+User_06714,Job_02174,data engineer iv,2
+User_06714,Job_09842,"senior manager, data engineering",3
+User_06714,Job_02612,lead data engineer (finops),4
+User_06714,Job_06436,lead data engineer,5
+User_03258,Job_06671,senior software engineer,1
+User_03258,Job_05165,tenure-track faculty in graphic design – multiple opportunities,2
+User_03258,Job_03778,senior cybersecurity engineer,3
+User_03258,Job_11534,"assistant professor - engineering technology (software quality, mobile technologies, edge computing)",4
+User_03258,Job_06036,research programmer/ senior research programmer- robotics institute,5
+User_06917,Job_07656,senior systems engineer **,1
+User_06917,Job_03196,senior systems engineer,2
+User_06917,Job_02107,staff systems engineer advanced programs,3
+User_06917,Job_06379,systems engineer level 3,4
+User_06917,Job_06842,senior business systems analyst - digital experience,5
+User_00322,Job_07341,business analyst - compliance,1
+User_00322,Job_07831,business system analyst,2
+User_00322,Job_10216,connected compliance manager job,3
+User_00322,Job_07142,financial and business analyst,4
+User_00322,Job_07198,sap business analyst  fico,5
+User_06404,Job_14262,(physician) physician medicine & rehab - general pm&r (ability to build and scale practice and specialize),1
+User_06404,Job_00905,hiring immediately: cna's and hha's - up to 20 per hour,2
+User_06404,Job_07344,"manager, software engineering - client id and access management",3
+User_06404,Job_06842,senior business systems analyst - digital experience,4
+User_06404,Job_06429,"software developer and tester, senior with security clearance",5
+User_06409,Job_00218,new product and lab project manager,1
+User_06409,Job_14464,sr. mechanical engineer-engine development,2
+User_06409,Job_08754,sr. reliability and safety engineer (pas),3
+User_06409,Job_11560,engineering project manager,4
+User_06409,Job_10145,senior project controller (pgm cost control analyst 3) - 17539,5
+User_00638,Job_14464,sr. mechanical engineer-engine development,1
+User_00638,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),2
+User_00638,Job_08913,radiology technologist / x-ray (lmrt),3
+User_00638,Job_07656,senior systems engineer **,4
+User_00638,Job_06379,systems engineer level 3,5
+User_06827,Job_07790,"lead software engineer, full stack (java, python, angular, react)",1
+User_06827,Job_05641,"lead software engineer, back end (go, aws, java)",2
+User_06827,Job_07790,"lead software engineer, full stack (java, python, angular, react)",3
+User_06827,Job_05006,"senior software engineer, back end (go, java)",4
+User_06827,Job_05006,"senior software engineer, back end (go, java)",5
+User_00004,Job_07341,business analyst - compliance,1
+User_00004,Job_07831,business system analyst,2
+User_00004,Job_10216,connected compliance manager job,3
+User_00004,Job_07142,financial and business analyst,4
+User_00004,Job_07198,sap business analyst  fico,5
+User_04280,Job_05834,sr. data engineer (hybrid),1
+User_04280,Job_02174,data engineer iv,2
+User_04280,Job_02612,lead data engineer (finops),3
+User_04280,Job_06436,lead data engineer,4
+User_04280,Job_06771,senior lead data engineer,5
+User_08863,Job_10586,senior software developer,1
+User_08863,Job_07656,senior systems engineer **,2
+User_08863,Job_06493,senior machine learning engineer,3
+User_08863,Job_14401,sr. site reliability engineer (paas/software),4
+User_08863,Job_14401,sr. site reliability engineer (paas/software),5
+User_09355,Job_14464,sr. mechanical engineer-engine development,1
+User_09355,Job_09217,head of developer experience,2
+User_09355,Job_11197,information technology manager of gis,3
+User_09355,Job_03931,vice president of employee benefits,4
+User_09355,Job_10032,"technical manager - college of arts and sciences, technical services",5
+User_02716,Job_06209,quality analyst 3,1
+User_02716,Job_13133,sr. technical recruiter,2
+User_02716,Job_10369,"engineer, computer iv with security clearance",3
+User_02716,Job_10369,"engineer, computer iv with security clearance",4
+User_02716,Job_06527,quality assurance analyst - atac,5
+User_01719,Job_12147,multi-modality technologist,1
+User_01719,Job_08166,prn multi-modality technologist,2
+User_01719,Job_03805,senior linux systems engineer,3
+User_01719,Job_09142,part time ultrasound technologist,4
+User_01719,Job_03021,programmer iii,5
+User_04193,Job_07790,"lead software engineer, full stack (java, python, angular, react)",1
+User_04193,Job_07790,"lead software engineer, full stack (java, python, angular, react)",2
+User_04193,Job_05641,"lead software engineer, back end (go, aws, java)",3
+User_04193,Job_05641,"lead software engineer, back end (go, aws, java)",4
+User_04193,Job_02713,"lead software engineer, full stack (java, python, aws)",5
+User_05420,Job_05834,sr. data engineer (hybrid),1
+User_05420,Job_02174,data engineer iv,2
+User_05420,Job_09842,"senior manager, data engineering",3
+User_05420,Job_02612,lead data engineer (finops),4
+User_05420,Job_06436,lead data engineer,5
+User_04701,Job_07328,sr. systems engineer,1
+User_04701,Job_02107,staff systems engineer advanced programs,2
+User_04701,Job_10586,senior software developer,3
+User_04701,Job_03196,senior systems engineer,4
+User_04701,Job_14433,senior/staff reliability engineer,5
+User_04867,Job_14464,sr. mechanical engineer-engine development,1
+User_04867,Job_02600,client program analyst i,2
+User_04867,Job_13281,functional fs-cd sap consultant,3
+User_04867,Job_13779,ori - office manager,4
+User_04867,Job_06842,senior business systems analyst - digital experience,5
+User_07640,Job_09842,"senior manager, data engineering",1
+User_07640,Job_06780,sr spectrum policy analyst (qa policy & strategy analyst 4) - 17025,2
+User_07640,Job_05834,sr. data engineer (hybrid),3
+User_07640,Job_02174,data engineer iv,4
+User_07640,Job_02612,lead data engineer (finops),5
+User_08731,Job_01115,smartplant foundation and sdx administrator,1
+User_08731,Job_03043,shipping manager,2
+User_08731,Job_10717,system planning engineer,3
+User_08731,Job_01097,"administrator - ops - zeeland, mi",4
+User_08731,Job_07315,"project coordinator - workstrings international, broussard, la",5
+User_07677,Job_06429,"software developer and tester, senior with security clearance",1
+User_07677,Job_02568,"senior systems software engineer, c++ and cuda - accelerated apache spark",2
+User_07677,Job_00902,nms administrator,3
+User_07677,Job_00633,sr. integration engineer,4
+User_07677,Job_10032,"technical manager - college of arts and sciences, technical services",5
+User_04605,Job_14464,sr. mechanical engineer-engine development,1
+User_04605,Job_10369,"engineer, computer iv with security clearance",2
+User_04605,Job_10369,"engineer, computer iv with security clearance",3
+User_04605,Job_09270,radiology technologist / x-ray (nct/lmrt/rt),4
+User_04605,Job_08913,radiology technologist / x-ray (lmrt),5
+User_04519,Job_05834,sr. data engineer (hybrid),1
+User_04519,Job_09842,"senior manager, data engineering",2
+User_04519,Job_06780,sr spectrum policy analyst (qa policy & strategy analyst 4) - 17025,3
+User_04519,Job_02174,data engineer iv,4
+User_04519,Job_02612,lead data engineer (finops),5
+User_07426,Job_03582,"engineer iv - software (memphis, tn or coppell, tx)",1
+User_07426,Job_05641,"lead software engineer, back end (go, aws, java)",2
+User_07426,Job_03801,lead software developer,3
+User_07426,Job_07817,senior data engineer,4
+User_07426,Job_05641,"lead software engineer, back end (go, aws, java)",5
+User_04112,Job_05165,tenure-track faculty in graphic design – multiple opportunities,1
+User_04112,Job_01951,temp event services coordinator - graduate & executive education: haslam college of business,2
+User_04112,Job_02607,satellite systems engineer,3
+User_04112,Job_09449,univ - open rank - vascular & interventional radiologist - department of radiology,4
+User_04112,Job_09662,"imaging technologist (m-f; 8 am-5 pm) - general 1st shift ($5,000 sign-on incentive) - for hires new to ui",5
+User_01329,Job_14174,sr. mechanical engineer (spacecraft structures),1
+User_01329,Job_06133,"lead, software engineering - embedded engineer 1",2
+User_01329,Job_14359,spacecraft engineer - adcs,3
+User_01329,Job_03630,model based systems engineers,4
+User_01329,Job_05642,pm aircraft survivability equipment software engineer - 17180,5
+User_02037,Job_04491,data scientist associate,1
+User_02037,Job_10586,senior software developer,2
+User_02037,Job_07656,senior systems engineer **,3
+User_02037,Job_02721,senior data science engineer,4
+User_02037,Job_06493,senior machine learning engineer,5
+User_05266,Job_13779,ori - office manager,1
+User_05266,Job_06842,senior business systems analyst - digital experience,2
+User_05266,Job_06768,business systems analyst - digital experience,3
+User_05266,Job_07475,senior it business analyst,4
+User_05266,Job_09755,"senior manager, business data analysis – business intelligence",5
+User_03310,Job_07790,"lead software engineer, full stack (java, python, angular, react)",1
+User_03310,Job_03582,"engineer iv - software (memphis, tn or coppell, tx)",2
+User_03310,Job_07790,"lead software engineer, full stack (java, python, angular, react)",3
+User_03310,Job_02713,"lead software engineer, full stack (java, python, aws)",4
+User_03310,Job_05641,"lead software engineer, back end (go, aws, java)",5
+User_09019,Job_07328,sr. systems engineer,1
+User_09019,Job_02107,staff systems engineer advanced programs,2
+User_09019,Job_10586,senior software developer,3
+User_09019,Job_03196,senior systems engineer,4
+User_09019,Job_14433,senior/staff reliability engineer,5
+User_07130,Job_14464,sr. mechanical engineer-engine development,1
+User_07130,Job_02600,client program analyst i,2
+User_07130,Job_13281,functional fs-cd sap consultant,3
+User_07130,Job_13779,ori - office manager,4
+User_07130,Job_06842,senior business systems analyst - digital experience,5
+User_06652,Job_06780,sr spectrum policy analyst (qa policy & strategy analyst 4) - 17025,1
+User_06652,Job_09842,"senior manager, data engineering",2
+User_06652,Job_02174,data engineer iv,3
+User_06652,Job_05834,sr. data engineer (hybrid),4
+User_06652,Job_02612,lead data engineer (finops),5
+User_04104,Job_07217,senior communications specialist - marketing and communications department,1
+User_04104,Job_08754,sr. reliability and safety engineer (pas),2
+User_04104,Job_04084,"senior benefits manager, leave administration and wellness",3
+User_04104,Job_06121,"staff software engineer, developer tooling, processes, and productivity",4
+User_04104,Job_09784,content marketing and communications coordinator,5
